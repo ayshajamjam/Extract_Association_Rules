@@ -1,0 +1,2342 @@
+==Frequent itemsets (min_sup=0.1%)==
+('hispanic', 'male')	 supp: 17.35%
+('male', 'white non hispanic')	 supp: 16.78%
+('female', 'white non hispanic')	 supp: 14.05%
+('female', 'hispanic')	 supp: 12.66%
+('asian and pacific islander', 'male')	 supp: 10.99%
+('black non hispanic', 'male')	 supp: 9.93%
+('asian and pacific islander', 'female')	 supp: 9.37%
+('black non hispanic', 'female')	 supp: 8.87%
+('2012', 'male')	 supp: 6.52%
+('2014', 'male')	 supp: 6.26%
+('2011', 'male')	 supp: 6.23%
+('2015', 'male')	 supp: 6.18%
+('2017', 'male')	 supp: 6.17%
+('2013', 'male')	 supp: 6.14%
+('2016', 'male')	 supp: 6.05%
+('2018', 'male')	 supp: 5.86%
+('2019', 'male')	 supp: 5.63%
+('2012', 'female')	 supp: 5.23%
+('2014', 'female')	 supp: 5.19%
+('2016', 'female')	 supp: 5.12%
+('2013', 'female')	 supp: 5.11%
+('2015', 'female')	 supp: 5.07%
+('2017', 'female')	 supp: 5.02%
+('2011', 'female')	 supp: 4.91%
+('2018', 'female')	 supp: 4.7%
+('2019', 'female')	 supp: 4.62%
+('2012', 'asian and pacific islander')	 supp: 3.79%
+('2017', 'white non hispanic')	 supp: 3.72%
+('2011', 'hispanic')	 supp: 3.72%
+('2015', 'white non hispanic')	 supp: 3.69%
+('2016', 'white non hispanic')	 supp: 3.6%
+('2013', 'white non hispanic')	 supp: 3.6%
+('2014', 'white non hispanic')	 supp: 3.59%
+('2019', 'white non hispanic')	 supp: 3.5%
+('2018', 'white non hispanic')	 supp: 3.5%
+('2012', 'hispanic')	 supp: 3.47%
+('2014', 'hispanic')	 supp: 3.46%
+('2017', 'hispanic')	 supp: 3.35%
+('2013', 'hispanic')	 supp: 3.35%
+('2011', 'white non hispanic')	 supp: 3.35%
+('2015', 'hispanic')	 supp: 3.33%
+('2016', 'hispanic')	 supp: 3.3%
+('2018', 'hispanic')	 supp: 3.08%
+('2019', 'hispanic')	 supp: 2.96%
+('2012', 'white non hispanic')	 supp: 2.27%
+('2011', 'hispanic', 'male')	 supp: 2.23%
+('2015', 'asian and pacific islander')	 supp: 2.22%
+('2012', 'black non hispanic')	 supp: 2.22%
+('2014', 'asian and pacific islander')	 supp: 2.21%
+('2011', 'black non hispanic')	 supp: 2.2%
+('2014', 'black non hispanic')	 supp: 2.2%
+('2016', 'asian and pacific islander')	 supp: 2.2%
+('2013', 'black non hispanic')	 supp: 2.18%
+('2013', 'asian and pacific islander')	 supp: 2.12%
+('2017', 'asian and pacific islander')	 supp: 2.09%
+('2012', 'asian and pacific islander', 'male')	 supp: 2.09%
+('2012', 'hispanic', 'male')	 supp: 2.08%
+('2016', 'black non hispanic')	 supp: 2.07%
+('2015', 'male', 'white non hispanic')	 supp: 2.05%
+('2017', 'male', 'white non hispanic')	 supp: 2.04%
+('2017', 'black non hispanic')	 supp: 2.03%
+('2018', 'black non hispanic')	 supp: 2.02%
+('2015', 'black non hispanic')	 supp: 2.01%
+('2014', 'male', 'white non hispanic')	 supp: 1.99%
+('2014', 'hispanic', 'male')	 supp: 1.98%
+('2013', 'hispanic', 'male')	 supp: 1.98%
+('2018', 'asian and pacific islander')	 supp: 1.97%
+('2015', 'hispanic', 'male')	 supp: 1.97%
+('2013', 'male', 'white non hispanic')	 supp: 1.94%
+('2016', 'hispanic', 'male')	 supp: 1.93%
+('2016', 'male', 'white non hispanic')	 supp: 1.91%
+('2019', 'asian and pacific islander')	 supp: 1.9%
+('2018', 'male', 'white non hispanic')	 supp: 1.89%
+('2011', 'male', 'white non hispanic')	 supp: 1.89%
+('2019', 'black non hispanic')	 supp: 1.88%
+('2017', 'hispanic', 'male')	 supp: 1.88%
+('2019', 'male', 'white non hispanic')	 supp: 1.87%
+('2011', 'asian and pacific islander')	 supp: 1.87%
+('2012', 'asian and pacific islander', 'female')	 supp: 1.7%
+('2016', 'female', 'white non hispanic')	 supp: 1.69%
+('2017', 'female', 'white non hispanic')	 supp: 1.68%
+('2018', 'hispanic', 'male')	 supp: 1.68%
+('2013', 'female', 'white non hispanic')	 supp: 1.66%
+('2015', 'female', 'white non hispanic')	 supp: 1.64%
+('2019', 'female', 'white non hispanic')	 supp: 1.63%
+('2019', 'hispanic', 'male')	 supp: 1.63%
+('2018', 'female', 'white non hispanic')	 supp: 1.6%
+('2014', 'female', 'white non hispanic')	 supp: 1.6%
+('2011', 'female', 'hispanic')	 supp: 1.49%
+('2014', 'female', 'hispanic')	 supp: 1.48%
+('2017', 'female', 'hispanic')	 supp: 1.47%
+('ethan', 'male')	 supp: 1.47%
+('2011', 'female', 'white non hispanic')	 supp: 1.46%
+('jacob', 'male')	 supp: 1.41%
+('2018', 'female', 'hispanic')	 supp: 1.4%
+('2012', 'female', 'hispanic')	 supp: 1.39%
+('2016', 'female', 'hispanic')	 supp: 1.38%
+('2013', 'female', 'hispanic')	 supp: 1.37%
+('liam', 'male')	 supp: 1.36%
+('2015', 'female', 'hispanic')	 supp: 1.35%
+('2019', 'female', 'hispanic')	 supp: 1.33%
+('male', 'noah')	 supp: 1.29%
+('jayden', 'male')	 supp: 1.24%
+('female', 'sophia')	 supp: 1.2%
+('2012', 'male', 'white non hispanic')	 supp: 1.19%
+('daniel', 'male')	 supp: 1.19%
+('2015', 'asian and pacific islander', 'male')	 supp: 1.18%
+('2018', 'black non hispanic', 'male')	 supp: 1.17%
+('male', 'matthew')	 supp: 1.16%
+('2014', 'asian and pacific islander', 'male')	 supp: 1.16%
+('2012', 'black non hispanic', 'male')	 supp: 1.16%
+('david', 'male')	 supp: 1.15%
+('female', 'isabella')	 supp: 1.15%
+('2014', 'black non hispanic', 'male')	 supp: 1.13%
+('2016', 'asian and pacific islander', 'male')	 supp: 1.13%
+('male', 'michael')	 supp: 1.13%
+('2017', 'asian and pacific islander', 'male')	 supp: 1.13%
+('2017', 'black non hispanic', 'male')	 supp: 1.13%
+('female', 'olivia')	 supp: 1.12%
+('2018', 'asian and pacific islander', 'male')	 supp: 1.12%
+('emma', 'female')	 supp: 1.12%
+('2013', 'asian and pacific islander', 'male')	 supp: 1.12%
+('aiden', 'male')	 supp: 1.11%
+('2013', 'black non hispanic', 'male')	 supp: 1.11%
+('2011', 'black non hispanic', 'male')	 supp: 1.1%
+('2011', 'black non hispanic', 'female')	 supp: 1.1%
+('2012', 'female', 'white non hispanic')	 supp: 1.08%
+('2016', 'black non hispanic', 'male')	 supp: 1.08%
+('2019', 'black non hispanic', 'male')	 supp: 1.07%
+('2013', 'black non hispanic', 'female')	 supp: 1.07%
+('2016', 'asian and pacific islander', 'female')	 supp: 1.06%
+('2014', 'black non hispanic', 'female')	 supp: 1.06%
+('2012', 'black non hispanic', 'female')	 supp: 1.06%
+('alexander', 'male')	 supp: 1.06%
+('2019', 'asian and pacific islander', 'male')	 supp: 1.05%
+('2014', 'asian and pacific islander', 'female')	 supp: 1.05%
+('female', 'mia')	 supp: 1.05%
+('2015', 'asian and pacific islander', 'female')	 supp: 1.04%
+('2015', 'black non hispanic', 'female')	 supp: 1.03%
+('2011', 'asian and pacific islander', 'male')	 supp: 1.01%
+('dylan', 'male')	 supp: 1.01%
+('joseph', 'male')	 supp: 1.0%
+('2013', 'asian and pacific islander', 'female')	 supp: 1.0%
+('lucas', 'male')	 supp: 0.99%
+('2016', 'black non hispanic', 'female')	 supp: 0.99%
+('2015', 'black non hispanic', 'male')	 supp: 0.98%
+('male', 'ryan')	 supp: 0.97%
+('2017', 'asian and pacific islander', 'female')	 supp: 0.96%
+('2017', 'black non hispanic', 'female')	 supp: 0.9%
+('male', 'mason')	 supp: 0.89%
+('2011', 'asian and pacific islander', 'female')	 supp: 0.85%
+('2018', 'asian and pacific islander', 'female')	 supp: 0.85%
+('2018', 'black non hispanic', 'female')	 supp: 0.84%
+('emily', 'female')	 supp: 0.84%
+('2019', 'asian and pacific islander', 'female')	 supp: 0.84%
+('female', 'leah')	 supp: 0.83%
+('2019', 'black non hispanic', 'female')	 supp: 0.81%
+('ava', 'female')	 supp: 0.81%
+('james', 'male')	 supp: 0.8%
+('joshua', 'male')	 supp: 0.74%
+('anthony', 'male')	 supp: 0.74%
+('male', 'sebastian')	 supp: 0.73%
+('chloe', 'female')	 supp: 0.73%
+('benjamin', 'male')	 supp: 0.72%
+('female', 'sarah')	 supp: 0.7%
+('male', 'samuel')	 supp: 0.69%
+('female', 'sofia')	 supp: 0.69%
+('hispanic', 'liam')	 supp: 0.68%
+('hispanic', 'liam', 'male')	 supp: 0.68%
+('female', 'madison')	 supp: 0.67%
+('male', 'william')	 supp: 0.67%
+('aaron', 'male')	 supp: 0.67%
+('hispanic', 'isabella')	 supp: 0.66%
+('female', 'hispanic', 'isabella')	 supp: 0.66%
+('hispanic', 'jacob')	 supp: 0.64%
+('hispanic', 'jacob', 'male')	 supp: 0.64%
+('hispanic', 'jayden')	 supp: 0.63%
+('hispanic', 'jayden', 'male')	 supp: 0.63%
+('gabriel', 'male')	 supp: 0.63%
+('abigail', 'female')	 supp: 0.63%
+('christopher', 'male')	 supp: 0.63%
+('male', 'nicholas')	 supp: 0.63%
+('hispanic', 'matthew')	 supp: 0.61%
+('hispanic', 'male', 'matthew')	 supp: 0.61%
+('isaac', 'male')	 supp: 0.58%
+('dylan', 'hispanic')	 supp: 0.57%
+('dylan', 'hispanic', 'male')	 supp: 0.57%
+('female', 'victoria')	 supp: 0.57%
+('justin', 'male')	 supp: 0.57%
+('andrew', 'male')	 supp: 0.56%
+('david', 'white non hispanic')	 supp: 0.56%
+('david', 'male', 'white non hispanic')	 supp: 0.56%
+('joseph', 'white non hispanic')	 supp: 0.55%
+('joseph', 'male', 'white non hispanic')	 supp: 0.55%
+('ethan', 'hispanic')	 supp: 0.55%
+('ethan', 'hispanic', 'male')	 supp: 0.55%
+('hispanic', 'noah')	 supp: 0.54%
+('logan', 'male')	 supp: 0.54%
+('hispanic', 'male', 'noah')	 supp: 0.54%
+('male', 'moshe')	 supp: 0.54%
+('hispanic', 'sophia')	 supp: 0.54%
+('female', 'hispanic', 'sophia')	 supp: 0.54%
+('female', 'zoe')	 supp: 0.54%
+('male', 'nathan')	 supp: 0.52%
+('john', 'male')	 supp: 0.52%
+('esther', 'female')	 supp: 0.52%
+('jonathan', 'male')	 supp: 0.52%
+('charlotte', 'female')	 supp: 0.51%
+('hispanic', 'mia')	 supp: 0.51%
+('female', 'hispanic', 'mia')	 supp: 0.51%
+('hispanic', 'sebastian')	 supp: 0.51%
+('hispanic', 'male', 'sebastian')	 supp: 0.51%
+('michael', 'white non hispanic')	 supp: 0.5%
+('male', 'michael', 'white non hispanic')	 supp: 0.5%
+('jacob', 'white non hispanic')	 supp: 0.49%
+('jacob', 'male', 'white non hispanic')	 supp: 0.49%
+('amelia', 'female')	 supp: 0.49%
+('elijah', 'male')	 supp: 0.49%
+('moshe', 'white non hispanic')	 supp: 0.48%
+('male', 'moshe', 'white non hispanic')	 supp: 0.48%
+('henry', 'male')	 supp: 0.48%
+('olivia', 'white non hispanic')	 supp: 0.48%
+('female', 'olivia', 'white non hispanic')	 supp: 0.48%
+('female', 'rachel')	 supp: 0.47%
+('jack', 'male')	 supp: 0.47%
+('adam', 'male')	 supp: 0.46%
+('elizabeth', 'female')	 supp: 0.46%
+('julian', 'male')	 supp: 0.46%
+('male', 'oliver')	 supp: 0.46%
+('female', 'maya')	 supp: 0.46%
+('jeremiah', 'male')	 supp: 0.45%
+('esther', 'white non hispanic')	 supp: 0.45%
+('esther', 'female', 'white non hispanic')	 supp: 0.45%
+('benjamin', 'white non hispanic')	 supp: 0.44%
+('benjamin', 'male', 'white non hispanic')	 supp: 0.44%
+('emma', 'white non hispanic')	 supp: 0.43%
+('emma', 'female', 'white non hispanic')	 supp: 0.43%
+('christian', 'male')	 supp: 0.43%
+('kevin', 'male')	 supp: 0.43%
+('daniel', 'white non hispanic')	 supp: 0.43%
+('daniel', 'male', 'white non hispanic')	 supp: 0.43%
+('daniel', 'hispanic')	 supp: 0.42%
+('daniel', 'hispanic', 'male')	 supp: 0.42%
+('angel', 'male')	 supp: 0.42%
+('angel', 'hispanic')	 supp: 0.42%
+('james', 'white non hispanic')	 supp: 0.42%
+('angel', 'hispanic', 'male')	 supp: 0.42%
+('james', 'male', 'white non hispanic')	 supp: 0.42%
+('female', 'grace')	 supp: 0.42%
+('alexander', 'white non hispanic')	 supp: 0.41%
+('alexander', 'male', 'white non hispanic')	 supp: 0.41%
+('chaya', 'female')	 supp: 0.41%
+('leah', 'white non hispanic')	 supp: 0.41%
+('female', 'leah', 'white non hispanic')	 supp: 0.41%
+('emma', 'hispanic')	 supp: 0.41%
+('emma', 'female', 'hispanic')	 supp: 0.41%
+('leo', 'male')	 supp: 0.4%
+('alexander', 'hispanic')	 supp: 0.4%
+('alexander', 'hispanic', 'male')	 supp: 0.4%
+('ella', 'female')	 supp: 0.4%
+('aiden', 'hispanic')	 supp: 0.4%
+('hispanic', 'lucas')	 supp: 0.4%
+('aiden', 'hispanic', 'male')	 supp: 0.4%
+('hispanic', 'lucas', 'male')	 supp: 0.4%
+('camila', 'female')	 supp: 0.39%
+('camila', 'hispanic')	 supp: 0.39%
+('camila', 'female', 'hispanic')	 supp: 0.39%
+('sarah', 'white non hispanic')	 supp: 0.39%
+('female', 'sarah', 'white non hispanic')	 supp: 0.39%
+('jack', 'white non hispanic')	 supp: 0.39%
+('jack', 'male', 'white non hispanic')	 supp: 0.39%
+('ashley', 'female')	 supp: 0.38%
+('rachel', 'white non hispanic')	 supp: 0.38%
+('female', 'rachel', 'white non hispanic')	 supp: 0.38%
+('adrian', 'male')	 supp: 0.38%
+('female', 'gabriella')	 supp: 0.37%
+('hispanic', 'mason')	 supp: 0.37%
+('hispanic', 'male', 'mason')	 supp: 0.37%
+('hispanic', 'sofia')	 supp: 0.37%
+('female', 'hispanic', 'sofia')	 supp: 0.37%
+('chaya', 'white non hispanic')	 supp: 0.37%
+('chaya', 'female', 'white non hispanic')	 supp: 0.37%
+('brandon', 'male')	 supp: 0.37%
+('asian and pacific islander', 'ethan')	 supp: 0.37%
+('asian and pacific islander', 'ethan', 'male')	 supp: 0.37%
+('white non hispanic', 'william')	 supp: 0.36%
+('male', 'white non hispanic', 'william')	 supp: 0.36%
+('samuel', 'white non hispanic')	 supp: 0.36%
+('male', 'samuel', 'white non hispanic')	 supp: 0.36%
+('henry', 'white non hispanic')	 supp: 0.36%
+('henry', 'male', 'white non hispanic')	 supp: 0.36%
+('sophia', 'white non hispanic')	 supp: 0.35%
+('female', 'sophia', 'white non hispanic')	 supp: 0.35%
+('female', 'miriam')	 supp: 0.35%
+('female', 'samantha')	 supp: 0.34%
+('female', 'hannah')	 supp: 0.34%
+('christopher', 'hispanic')	 supp: 0.34%
+('christopher', 'hispanic', 'male')	 supp: 0.34%
+('david', 'hispanic')	 supp: 0.34%
+('david', 'hispanic', 'male')	 supp: 0.34%
+('josiah', 'male')	 supp: 0.34%
+('charles', 'male')	 supp: 0.34%
+('female', 'sara')	 supp: 0.34%
+('asian and pacific islander', 'ryan')	 supp: 0.34%
+('asian and pacific islander', 'male', 'ryan')	 supp: 0.34%
+('jason', 'male')	 supp: 0.33%
+('anthony', 'hispanic')	 supp: 0.33%
+('abraham', 'male')	 supp: 0.33%
+('anthony', 'hispanic', 'male')	 supp: 0.33%
+('chaim', 'male')	 supp: 0.33%
+('hispanic', 'michael')	 supp: 0.33%
+('hispanic', 'male', 'michael')	 supp: 0.33%
+('adam', 'white non hispanic')	 supp: 0.32%
+('adam', 'male', 'white non hispanic')	 supp: 0.32%
+('chana', 'female')	 supp: 0.32%
+('ian', 'male')	 supp: 0.32%
+('charlotte', 'white non hispanic')	 supp: 0.32%
+('charlotte', 'female', 'white non hispanic')	 supp: 0.32%
+('john', 'white non hispanic')	 supp: 0.32%
+('john', 'male', 'white non hispanic')	 supp: 0.32%
+('miriam', 'white non hispanic')	 supp: 0.32%
+('female', 'miriam', 'white non hispanic')	 supp: 0.32%
+('noah', 'white non hispanic')	 supp: 0.31%
+('male', 'noah', 'white non hispanic')	 supp: 0.31%
+('emily', 'hispanic')	 supp: 0.31%
+('male', 'muhammad')	 supp: 0.31%
+('emily', 'female', 'hispanic')	 supp: 0.31%
+('hispanic', 'joshua')	 supp: 0.31%
+('hispanic', 'joshua', 'male')	 supp: 0.31%
+('asian and pacific islander', 'olivia')	 supp: 0.31%
+('asian and pacific islander', 'female', 'olivia')	 supp: 0.31%
+('asian and pacific islander', 'jayden')	 supp: 0.31%
+('asian and pacific islander', 'jayden', 'male')	 supp: 0.31%
+('female', 'hailey')	 supp: 0.31%
+('ayden', 'male')	 supp: 0.31%
+('hispanic', 'justin')	 supp: 0.31%
+('hispanic', 'justin', 'male')	 supp: 0.31%
+('male', 'theodore')	 supp: 0.31%
+('adrian', 'hispanic')	 supp: 0.3%
+('adrian', 'hispanic', 'male')	 supp: 0.3%
+('female', 'valentina')	 supp: 0.3%
+('black non hispanic', 'noah')	 supp: 0.3%
+('black non hispanic', 'male', 'noah')	 supp: 0.3%
+('abraham', 'white non hispanic')	 supp: 0.3%
+('abraham', 'male', 'white non hispanic')	 supp: 0.3%
+('ava', 'white non hispanic')	 supp: 0.3%
+('ava', 'female', 'white non hispanic')	 supp: 0.3%
+('ethan', 'white non hispanic')	 supp: 0.3%
+('ethan', 'male', 'white non hispanic')	 supp: 0.3%
+('eva', 'female')	 supp: 0.29%
+('asian and pacific islander', 'lucas')	 supp: 0.29%
+('asian and pacific islander', 'lucas', 'male')	 supp: 0.29%
+('aaron', 'hispanic')	 supp: 0.29%
+('aaron', 'hispanic', 'male')	 supp: 0.29%
+('chaim', 'white non hispanic')	 supp: 0.29%
+('chaim', 'male', 'white non hispanic')	 supp: 0.29%
+('ryan', 'white non hispanic')	 supp: 0.29%
+('male', 'ryan', 'white non hispanic')	 supp: 0.29%
+('matthew', 'white non hispanic')	 supp: 0.29%
+('male', 'matthew', 'white non hispanic')	 supp: 0.29%
+('evelyn', 'female')	 supp: 0.29%
+('female', 'scarlett')	 supp: 0.28%
+('chana', 'white non hispanic')	 supp: 0.28%
+('liam', 'white non hispanic')	 supp: 0.28%
+('jeremy', 'male')	 supp: 0.28%
+('chana', 'female', 'white non hispanic')	 supp: 0.28%
+('liam', 'male', 'white non hispanic')	 supp: 0.28%
+('aiden', 'black non hispanic')	 supp: 0.28%
+('aiden', 'black non hispanic', 'male')	 supp: 0.28%
+('male', 'max')	 supp: 0.28%
+('nicholas', 'white non hispanic')	 supp: 0.28%
+('male', 'nicholas', 'white non hispanic')	 supp: 0.28%
+('ashley', 'hispanic')	 supp: 0.28%
+('ashley', 'female', 'hispanic')	 supp: 0.28%
+('female', 'layla')	 supp: 0.28%
+('female', 'penelope')	 supp: 0.28%
+('gabriel', 'hispanic')	 supp: 0.27%
+('gabriel', 'hispanic', 'male')	 supp: 0.27%
+('male', 'thomas')	 supp: 0.27%
+('asian and pacific islander', 'muhammad')	 supp: 0.27%
+('asian and pacific islander', 'male', 'muhammad')	 supp: 0.27%
+('mia', 'white non hispanic')	 supp: 0.27%
+('female', 'mia', 'white non hispanic')	 supp: 0.27%
+('oliver', 'white non hispanic')	 supp: 0.27%
+('female', 'rivka')	 supp: 0.27%
+('male', 'oliver', 'white non hispanic')	 supp: 0.27%
+('male', 'zachary')	 supp: 0.27%
+('lucas', 'white non hispanic')	 supp: 0.27%
+('lucas', 'male', 'white non hispanic')	 supp: 0.27%
+('ariana', 'female')	 supp: 0.27%
+('aiden', 'asian and pacific islander')	 supp: 0.27%
+('aiden', 'asian and pacific islander', 'male')	 supp: 0.27%
+('eli', 'male')	 supp: 0.27%
+('leo', 'white non hispanic')	 supp: 0.27%
+('hispanic', 'joseph')	 supp: 0.27%
+('leo', 'male', 'white non hispanic')	 supp: 0.27%
+('hispanic', 'joseph', 'male')	 supp: 0.27%
+('emily', 'white non hispanic')	 supp: 0.27%
+('emily', 'female', 'white non hispanic')	 supp: 0.27%
+('charles', 'white non hispanic')	 supp: 0.27%
+('charles', 'male', 'white non hispanic')	 supp: 0.27%
+('anna', 'female')	 supp: 0.26%
+('sara', 'white non hispanic')	 supp: 0.26%
+('female', 'sara', 'white non hispanic')	 supp: 0.26%
+('luke', 'male')	 supp: 0.26%
+('hispanic', 'victoria')	 supp: 0.26%
+('alexandra', 'female')	 supp: 0.26%
+('female', 'hispanic', 'victoria')	 supp: 0.26%
+('female', 'kaylee')	 supp: 0.26%
+('black non hispanic', 'ethan')	 supp: 0.26%
+('black non hispanic', 'ethan', 'male')	 supp: 0.26%
+('black non hispanic', 'madison')	 supp: 0.26%
+('ella', 'white non hispanic')	 supp: 0.26%
+('female', 'genesis')	 supp: 0.26%
+('black non hispanic', 'female', 'madison')	 supp: 0.26%
+('ella', 'female', 'white non hispanic')	 supp: 0.26%
+('asian and pacific islander', 'chloe')	 supp: 0.25%
+('asian and pacific islander', 'chloe', 'female')	 supp: 0.25%
+('female', 'mila')	 supp: 0.25%
+('male', 'xavier')	 supp: 0.25%
+('aaliyah', 'female')	 supp: 0.25%
+('isaac', 'white non hispanic')	 supp: 0.25%
+('hispanic', 'valentina')	 supp: 0.25%
+('isaac', 'male', 'white non hispanic')	 supp: 0.25%
+('female', 'hispanic', 'valentina')	 supp: 0.25%
+('black non hispanic', 'elijah')	 supp: 0.25%
+('black non hispanic', 'elijah', 'male')	 supp: 0.25%
+('asian and pacific islander', 'sophia')	 supp: 0.25%
+('asian and pacific islander', 'female', 'sophia')	 supp: 0.25%
+('black non hispanic', 'jayden')	 supp: 0.25%
+('black non hispanic', 'jayden', 'male')	 supp: 0.25%
+('black non hispanic', 'jeremiah')	 supp: 0.25%
+('black non hispanic', 'jeremiah', 'male')	 supp: 0.25%
+('hispanic', 'jonathan')	 supp: 0.25%
+('rivka', 'white non hispanic')	 supp: 0.25%
+('hispanic', 'jonathan', 'male')	 supp: 0.25%
+('female', 'rivka', 'white non hispanic')	 supp: 0.25%
+('isabella', 'white non hispanic')	 supp: 0.25%
+('female', 'isabella', 'white non hispanic')	 supp: 0.25%
+('hispanic', 'leah')	 supp: 0.24%
+('female', 'hispanic', 'leah')	 supp: 0.24%
+('hispanic', 'kevin')	 supp: 0.24%
+('male', 'yosef')	 supp: 0.24%
+('hispanic', 'kevin', 'male')	 supp: 0.24%
+('female', 'lily')	 supp: 0.24%
+('avery', 'female')	 supp: 0.24%
+('brianna', 'female')	 supp: 0.24%
+('female', 'kayla')	 supp: 0.24%
+('arianna', 'female')	 supp: 0.24%
+('abigail', 'hispanic')	 supp: 0.24%
+('abigail', 'female', 'hispanic')	 supp: 0.24%
+('theodore', 'white non hispanic')	 supp: 0.24%
+('male', 'theodore', 'white non hispanic')	 supp: 0.24%
+('bella', 'female')	 supp: 0.24%
+('sofia', 'white non hispanic')	 supp: 0.23%
+('female', 'sofia', 'white non hispanic')	 supp: 0.23%
+('hispanic', 'ryan')	 supp: 0.23%
+('hispanic', 'male', 'ryan')	 supp: 0.23%
+('male', 'owen')	 supp: 0.23%
+('female', 'julia')	 supp: 0.23%
+('gabriel', 'white non hispanic')	 supp: 0.23%
+('gabriel', 'male', 'white non hispanic')	 supp: 0.23%
+('maya', 'white non hispanic')	 supp: 0.23%
+('black non hispanic', 'liam')	 supp: 0.23%
+('female', 'maya', 'white non hispanic')	 supp: 0.23%
+('black non hispanic', 'liam', 'male')	 supp: 0.23%
+('asian and pacific islander', 'emma')	 supp: 0.23%
+('asian and pacific islander', 'emma', 'female')	 supp: 0.23%
+('hispanic', 'jose')	 supp: 0.23%
+('jose', 'male')	 supp: 0.23%
+('isaiah', 'male')	 supp: 0.23%
+('hispanic', 'jose', 'male')	 supp: 0.23%
+('dylan', 'white non hispanic')	 supp: 0.23%
+('female', 'riley')	 supp: 0.23%
+('dylan', 'male', 'white non hispanic')	 supp: 0.23%
+('male', 'tyler')	 supp: 0.23%
+('thomas', 'white non hispanic')	 supp: 0.23%
+('male', 'thomas', 'white non hispanic')	 supp: 0.23%
+('female', 'melanie')	 supp: 0.22%
+('brandon', 'hispanic')	 supp: 0.22%
+('brandon', 'hispanic', 'male')	 supp: 0.22%
+('female', 'sophie')	 supp: 0.22%
+('male', 'shimon')	 supp: 0.22%
+('hispanic', 'madison')	 supp: 0.22%
+('female', 'hispanic', 'madison')	 supp: 0.22%
+('anthony', 'white non hispanic')	 supp: 0.22%
+('hispanic', 'ian')	 supp: 0.22%
+('anthony', 'male', 'white non hispanic')	 supp: 0.22%
+('hispanic', 'ian', 'male')	 supp: 0.22%
+('hispanic', 'isaac')	 supp: 0.22%
+('hispanic', 'isaac', 'male')	 supp: 0.22%
+('black non hispanic', 'joshua')	 supp: 0.22%
+('black non hispanic', 'joshua', 'male')	 supp: 0.22%
+('elijah', 'hispanic')	 supp: 0.22%
+('elijah', 'hispanic', 'male')	 supp: 0.22%
+('allison', 'female')	 supp: 0.22%
+('black non hispanic', 'josiah')	 supp: 0.22%
+('black non hispanic', 'josiah', 'male')	 supp: 0.22%
+('hispanic', 'jeremy')	 supp: 0.22%
+('hispanic', 'jeremy', 'male')	 supp: 0.22%
+('jackson', 'male')	 supp: 0.22%
+('white non hispanic', 'yosef')	 supp: 0.22%
+('male', 'white non hispanic', 'yosef')	 supp: 0.22%
+('evan', 'male')	 supp: 0.22%
+('christian', 'hispanic')	 supp: 0.21%
+('hispanic', 'luis')	 supp: 0.21%
+('luis', 'male')	 supp: 0.21%
+('christian', 'hispanic', 'male')	 supp: 0.21%
+('hispanic', 'luis', 'male')	 supp: 0.21%
+('hispanic', 'julian')	 supp: 0.21%
+('hispanic', 'julian', 'male')	 supp: 0.21%
+('genesis', 'hispanic')	 supp: 0.21%
+('female', 'genesis', 'hispanic')	 supp: 0.21%
+('asian and pacific islander', 'daniel')	 supp: 0.21%
+('asian and pacific islander', 'daniel', 'male')	 supp: 0.21%
+('black non hispanic', 'mason')	 supp: 0.21%
+('black non hispanic', 'male', 'mason')	 supp: 0.21%
+('luca', 'male')	 supp: 0.21%
+('alice', 'female')	 supp: 0.21%
+('abigail', 'white non hispanic')	 supp: 0.21%
+('abigail', 'female', 'white non hispanic')	 supp: 0.21%
+('chloe', 'white non hispanic')	 supp: 0.21%
+('chloe', 'female', 'white non hispanic')	 supp: 0.21%
+('hispanic', 'olivia')	 supp: 0.21%
+('female', 'hispanic', 'olivia')	 supp: 0.21%
+('male', 'mordechai')	 supp: 0.21%
+('elias', 'male')	 supp: 0.21%
+('max', 'white non hispanic')	 supp: 0.21%
+('aria', 'female')	 supp: 0.21%
+('male', 'max', 'white non hispanic')	 supp: 0.21%
+('male', 'menachem')	 supp: 0.21%
+('hispanic', 'samantha')	 supp: 0.21%
+('female', 'hispanic', 'samantha')	 supp: 0.21%
+('hispanic', 'jeremiah')	 supp: 0.21%
+('hispanic', 'jeremiah', 'male')	 supp: 0.21%
+('amy', 'female')	 supp: 0.2%
+('amir', 'male')	 supp: 0.2%
+('amir', 'black non hispanic')	 supp: 0.2%
+('amir', 'black non hispanic', 'male')	 supp: 0.2%
+('elizabeth', 'white non hispanic')	 supp: 0.2%
+('elizabeth', 'female', 'white non hispanic')	 supp: 0.2%
+('hispanic', 'logan')	 supp: 0.2%
+('alexa', 'female')	 supp: 0.2%
+('hispanic', 'logan', 'male')	 supp: 0.2%
+('female', 'stella')	 supp: 0.2%
+('eli', 'white non hispanic')	 supp: 0.2%
+('eli', 'male', 'white non hispanic')	 supp: 0.2%
+('asian and pacific islander', 'emily')	 supp: 0.2%
+('shimon', 'white non hispanic')	 supp: 0.2%
+('asian and pacific islander', 'emily', 'female')	 supp: 0.2%
+('male', 'shimon', 'white non hispanic')	 supp: 0.2%
+('male', 'mateo')	 supp: 0.2%
+('hispanic', 'mateo')	 supp: 0.2%
+('hispanic', 'male', 'mateo')	 supp: 0.2%
+('2011', 'jayden')	 supp: 0.2%
+('female', 'nicole')	 supp: 0.2%
+('2011', 'jayden', 'male')	 supp: 0.2%
+('ava', 'hispanic')	 supp: 0.19%
+('ava', 'female', 'hispanic')	 supp: 0.19%
+('female', 'gianna')	 supp: 0.19%
+('hailey', 'hispanic')	 supp: 0.19%
+('female', 'zoey')	 supp: 0.19%
+('female', 'hailey', 'hispanic')	 supp: 0.19%
+('andrew', 'white non hispanic')	 supp: 0.19%
+('andrew', 'male', 'white non hispanic')	 supp: 0.19%
+('2018', 'liam')	 supp: 0.19%
+('2018', 'liam', 'male')	 supp: 0.19%
+('hispanic', 'melanie')	 supp: 0.19%
+('female', 'hispanic', 'melanie')	 supp: 0.19%
+('luke', 'white non hispanic')	 supp: 0.19%
+('luke', 'male', 'white non hispanic')	 supp: 0.19%
+('elias', 'hispanic')	 supp: 0.19%
+('ava', 'black non hispanic')	 supp: 0.19%
+('elias', 'hispanic', 'male')	 supp: 0.19%
+('ava', 'black non hispanic', 'female')	 supp: 0.19%
+('2015', 'ethan')	 supp: 0.19%
+('2015', 'ethan', 'male')	 supp: 0.19%
+('male', 'yehuda')	 supp: 0.19%
+('menachem', 'white non hispanic')	 supp: 0.19%
+('male', 'menachem', 'white non hispanic')	 supp: 0.19%
+('hispanic', 'nicholas')	 supp: 0.19%
+('hispanic', 'male', 'nicholas')	 supp: 0.19%
+('2019', 'liam')	 supp: 0.19%
+('allison', 'hispanic')	 supp: 0.19%
+('2019', 'liam', 'male')	 supp: 0.19%
+('allison', 'female', 'hispanic')	 supp: 0.19%
+('hispanic', 'scarlett')	 supp: 0.18%
+('female', 'hispanic', 'scarlett')	 supp: 0.18%
+('andrew', 'hispanic')	 supp: 0.18%
+('mordechai', 'white non hispanic')	 supp: 0.18%
+('andrew', 'hispanic', 'male')	 supp: 0.18%
+('male', 'mordechai', 'white non hispanic')	 supp: 0.18%
+('brianna', 'hispanic')	 supp: 0.18%
+('brianna', 'female', 'hispanic')	 supp: 0.18%
+('white non hispanic', 'zoe')	 supp: 0.18%
+('female', 'white non hispanic', 'zoe')	 supp: 0.18%
+('hispanic', 'james')	 supp: 0.18%
+('kayden', 'male')	 supp: 0.18%
+('hispanic', 'james', 'male')	 supp: 0.18%
+('male', 'nathaniel')	 supp: 0.18%
+('2014', 'ethan')	 supp: 0.18%
+('2014', 'ethan', 'male')	 supp: 0.18%
+('amelia', 'white non hispanic')	 supp: 0.18%
+('luca', 'white non hispanic')	 supp: 0.18%
+('amelia', 'female', 'white non hispanic')	 supp: 0.18%
+('luca', 'male', 'white non hispanic')	 supp: 0.18%
+('2012', 'ethan')	 supp: 0.18%
+('carlos', 'male')	 supp: 0.18%
+('carlos', 'hispanic')	 supp: 0.18%
+('hispanic', 'zoe')	 supp: 0.18%
+('2012', 'ethan', 'male')	 supp: 0.18%
+('carlos', 'hispanic', 'male')	 supp: 0.18%
+('female', 'hispanic', 'zoe')	 supp: 0.18%
+('2017', 'liam')	 supp: 0.18%
+('2012', 'jayden')	 supp: 0.18%
+('2017', 'liam', 'male')	 supp: 0.18%
+('2012', 'jayden', 'male')	 supp: 0.18%
+('angelina', 'female')	 supp: 0.18%
+('alexandra', 'white non hispanic')	 supp: 0.18%
+('female', 'savannah')	 supp: 0.18%
+('alexandra', 'female', 'white non hispanic')	 supp: 0.18%
+('female', 'gitty')	 supp: 0.18%
+('austin', 'male')	 supp: 0.18%
+('2013', 'jayden')	 supp: 0.18%
+('2013', 'jayden', 'male')	 supp: 0.18%
+('lily', 'white non hispanic')	 supp: 0.18%
+('female', 'lily', 'white non hispanic')	 supp: 0.18%
+('grace', 'white non hispanic')	 supp: 0.18%
+('female', 'grace', 'white non hispanic')	 supp: 0.18%
+('anna', 'white non hispanic')	 supp: 0.18%
+('anna', 'female', 'white non hispanic')	 supp: 0.18%
+('eric', 'male')	 supp: 0.18%
+('2016', 'liam')	 supp: 0.17%
+('2011', 'jacob')	 supp: 0.17%
+('2016', 'liam', 'male')	 supp: 0.17%
+('2011', 'jacob', 'male')	 supp: 0.17%
+('asian and pacific islander', 'william')	 supp: 0.17%
+('asian and pacific islander', 'male', 'william')	 supp: 0.17%
+('black non hispanic', 'michael')	 supp: 0.17%
+('black non hispanic', 'male', 'michael')	 supp: 0.17%
+('2015', 'liam')	 supp: 0.17%
+('2015', 'liam', 'male')	 supp: 0.17%
+('female', 'naomi')	 supp: 0.17%
+('2016', 'jacob')	 supp: 0.17%
+('2016', 'jacob', 'male')	 supp: 0.17%
+('2013', 'ethan')	 supp: 0.17%
+('2013', 'ethan', 'male')	 supp: 0.17%
+('ariana', 'hispanic')	 supp: 0.17%
+('ariana', 'female', 'hispanic')	 supp: 0.17%
+('2016', 'ethan')	 supp: 0.17%
+('asian and pacific islander', 'liam')	 supp: 0.17%
+('2016', 'ethan', 'male')	 supp: 0.17%
+('asian and pacific islander', 'liam', 'male')	 supp: 0.17%
+('asian and pacific islander', 'mia')	 supp: 0.17%
+('asian and pacific islander', 'female', 'mia')	 supp: 0.17%
+('male', 'yisroel')	 supp: 0.17%
+('female', 'luna')	 supp: 0.17%
+('mason', 'white non hispanic')	 supp: 0.17%
+('male', 'robert')	 supp: 0.17%
+('male', 'mason', 'white non hispanic')	 supp: 0.17%
+('female', 'kylie')	 supp: 0.17%
+('2011', 'ethan')	 supp: 0.17%
+('2011', 'ethan', 'male')	 supp: 0.17%
+('2014', 'jacob')	 supp: 0.17%
+('faigy', 'female')	 supp: 0.17%
+('2014', 'jacob', 'male')	 supp: 0.17%
+('victoria', 'white non hispanic')	 supp: 0.17%
+('female', 'victoria', 'white non hispanic')	 supp: 0.17%
+('white non hispanic', 'yehuda')	 supp: 0.17%
+('julian', 'white non hispanic')	 supp: 0.17%
+('male', 'white non hispanic', 'yehuda')	 supp: 0.17%
+('julian', 'male', 'white non hispanic')	 supp: 0.17%
+('female', 'kimberly')	 supp: 0.17%
+('jaden', 'male')	 supp: 0.17%
+('hannah', 'white non hispanic')	 supp: 0.17%
+('female', 'malka')	 supp: 0.17%
+('asher', 'male')	 supp: 0.17%
+('female', 'hannah', 'white non hispanic')	 supp: 0.17%
+('asian and pacific islander', 'matthew')	 supp: 0.16%
+('asian and pacific islander', 'male', 'matthew')	 supp: 0.16%
+('nathan', 'white non hispanic')	 supp: 0.16%
+('male', 'nathan', 'white non hispanic')	 supp: 0.16%
+('2019', 'noah')	 supp: 0.16%
+('2019', 'male', 'noah')	 supp: 0.16%
+('2013', 'jacob')	 supp: 0.16%
+('2013', 'jacob', 'male')	 supp: 0.16%
+('2015', 'noah')	 supp: 0.16%
+('2015', 'male', 'noah')	 supp: 0.16%
+('julia', 'white non hispanic')	 supp: 0.16%
+('female', 'julia', 'white non hispanic')	 supp: 0.16%
+('emilia', 'female')	 supp: 0.16%
+('2018', 'noah')	 supp: 0.16%
+('female', 'michelle')	 supp: 0.16%
+('2018', 'male', 'noah')	 supp: 0.16%
+('gitty', 'white non hispanic')	 supp: 0.16%
+('female', 'gitty', 'white non hispanic')	 supp: 0.16%
+('aiden', 'white non hispanic')	 supp: 0.16%
+('aiden', 'male', 'white non hispanic')	 supp: 0.16%
+('2015', 'jacob')	 supp: 0.16%
+('white non hispanic', 'zachary')	 supp: 0.16%
+('2015', 'jacob', 'male')	 supp: 0.16%
+('male', 'white non hispanic', 'zachary')	 supp: 0.16%
+('2012', 'jacob')	 supp: 0.16%
+('2012', 'jacob', 'male')	 supp: 0.16%
+('emmanuel', 'male')	 supp: 0.16%
+('2017', 'noah')	 supp: 0.16%
+('2017', 'male', 'noah')	 supp: 0.16%
+('alyssa', 'female')	 supp: 0.16%
+('hispanic', 'kaylee')	 supp: 0.16%
+('female', 'hispanic', 'kaylee')	 supp: 0.16%
+('carter', 'male')	 supp: 0.16%
+('eleanor', 'female')	 supp: 0.16%
+('2017', 'jacob')	 supp: 0.16%
+('2017', 'jacob', 'male')	 supp: 0.16%
+('alexander', 'asian and pacific islander')	 supp: 0.16%
+('ayden', 'hispanic')	 supp: 0.16%
+('hispanic', 'kimberly')	 supp: 0.16%
+('jackson', 'white non hispanic')	 supp: 0.16%
+('eliana', 'female')	 supp: 0.16%
+('alexander', 'asian and pacific islander', 'male')	 supp: 0.16%
+('ayden', 'hispanic', 'male')	 supp: 0.16%
+('female', 'hispanic', 'kimberly')	 supp: 0.16%
+('jackson', 'male', 'white non hispanic')	 supp: 0.16%
+('kyle', 'male')	 supp: 0.16%
+('2013', 'daniel')	 supp: 0.16%
+('2013', 'daniel', 'male')	 supp: 0.16%
+('2013', 'sophia')	 supp: 0.16%
+('2013', 'female', 'sophia')	 supp: 0.16%
+('2014', 'liam')	 supp: 0.16%
+('2012', 'daniel')	 supp: 0.16%
+('2014', 'liam', 'male')	 supp: 0.16%
+('2012', 'daniel', 'male')	 supp: 0.16%
+('alexa', 'hispanic')	 supp: 0.16%
+('alexa', 'female', 'hispanic')	 supp: 0.16%
+('2016', 'noah')	 supp: 0.16%
+('female', 'malky')	 supp: 0.16%
+('2016', 'male', 'noah')	 supp: 0.16%
+('black non hispanic', 'carter')	 supp: 0.15%
+('black non hispanic', 'christian')	 supp: 0.15%
+('black non hispanic', 'carter', 'male')	 supp: 0.15%
+('black non hispanic', 'christian', 'male')	 supp: 0.15%
+('female', 'katherine')	 supp: 0.15%
+('asian and pacific islander', 'jacob')	 supp: 0.15%
+('asian and pacific islander', 'jacob', 'male')	 supp: 0.15%
+('amy', 'hispanic')	 supp: 0.15%
+('amy', 'female', 'hispanic')	 supp: 0.15%
+('hispanic', 'samuel')	 supp: 0.15%
+('hispanic', 'male', 'samuel')	 supp: 0.15%
+('female', 'jade')	 supp: 0.15%
+('george', 'male')	 supp: 0.15%
+('malka', 'white non hispanic')	 supp: 0.15%
+('female', 'malka', 'white non hispanic')	 supp: 0.15%
+('2012', 'sophia')	 supp: 0.15%
+('2012', 'female', 'sophia')	 supp: 0.15%
+('faigy', 'white non hispanic')	 supp: 0.15%
+('faigy', 'female', 'white non hispanic')	 supp: 0.15%
+('2011', 'matthew')	 supp: 0.15%
+('female', 'khloe')	 supp: 0.15%
+('2011', 'male', 'matthew')	 supp: 0.15%
+('2011', 'michael')	 supp: 0.15%
+('2011', 'male', 'michael')	 supp: 0.15%
+('2011', 'daniel')	 supp: 0.15%
+('sebastian', 'white non hispanic')	 supp: 0.15%
+('2011', 'daniel', 'male')	 supp: 0.15%
+('male', 'sebastian', 'white non hispanic')	 supp: 0.15%
+('white non hispanic', 'yisroel')	 supp: 0.15%
+('male', 'white non hispanic', 'yisroel')	 supp: 0.15%
+('2011', 'isabella')	 supp: 0.15%
+('2011', 'female', 'isabella')	 supp: 0.15%
+('2012', 'matthew')	 supp: 0.15%
+('hispanic', 'xavier')	 supp: 0.15%
+('2012', 'male', 'matthew')	 supp: 0.15%
+('hispanic', 'male', 'xavier')	 supp: 0.15%
+('2014', 'noah')	 supp: 0.15%
+('2015', 'olivia')	 supp: 0.15%
+('black non hispanic', 'isaiah')	 supp: 0.15%
+('2014', 'male', 'noah')	 supp: 0.15%
+('2015', 'female', 'olivia')	 supp: 0.15%
+('black non hispanic', 'isaiah', 'male')	 supp: 0.15%
+('2013', 'isabella')	 supp: 0.15%
+('aaron', 'white non hispanic')	 supp: 0.15%
+('2013', 'female', 'isabella')	 supp: 0.15%
+('aaron', 'male', 'white non hispanic')	 supp: 0.15%
+('female', 'maria')	 supp: 0.15%
+('gabriella', 'hispanic')	 supp: 0.15%
+('stella', 'white non hispanic')	 supp: 0.15%
+('female', 'gabriella', 'hispanic')	 supp: 0.15%
+('female', 'stella', 'white non hispanic')	 supp: 0.15%
+('2012', 'michael')	 supp: 0.15%
+('2012', 'male', 'michael')	 supp: 0.15%
+('2013', 'david')	 supp: 0.15%
+('hispanic', 'nathan')	 supp: 0.15%
+('2013', 'david', 'male')	 supp: 0.15%
+('hispanic', 'male', 'nathan')	 supp: 0.15%
+('2012', 'aiden')	 supp: 0.15%
+('2012', 'aiden', 'male')	 supp: 0.15%
+('arianna', 'hispanic')	 supp: 0.15%
+('arianna', 'female', 'hispanic')	 supp: 0.15%
+('sophie', 'white non hispanic')	 supp: 0.14%
+('female', 'sophie', 'white non hispanic')	 supp: 0.14%
+('2014', 'sophia')	 supp: 0.14%
+('2014', 'female', 'sophia')	 supp: 0.14%
+('asian and pacific islander', 'isabella')	 supp: 0.14%
+('gabriella', 'white non hispanic')	 supp: 0.14%
+('asian and pacific islander', 'female', 'isabella')	 supp: 0.14%
+('female', 'gabriella', 'white non hispanic')	 supp: 0.14%
+('2014', 'jayden')	 supp: 0.14%
+('black non hispanic', 'tyler')	 supp: 0.14%
+('2014', 'jayden', 'male')	 supp: 0.14%
+('black non hispanic', 'male', 'tyler')	 supp: 0.14%
+('2012', 'david')	 supp: 0.14%
+('asian and pacific islander', 'jason')	 supp: 0.14%
+('2012', 'david', 'male')	 supp: 0.14%
+('asian and pacific islander', 'jason', 'male')	 supp: 0.14%
+('female', 'raizy')	 supp: 0.14%
+('asian and pacific islander', 'evan')	 supp: 0.14%
+('asian and pacific islander', 'evan', 'male')	 supp: 0.14%
+('2014', 'daniel')	 supp: 0.14%
+('2014', 'daniel', 'male')	 supp: 0.14%
+('male', 'steven')	 supp: 0.14%
+('joel', 'male')	 supp: 0.14%
+('2014', 'michael')	 supp: 0.14%
+('2014', 'male', 'michael')	 supp: 0.14%
+('2015', 'matthew')	 supp: 0.14%
+('2015', 'male', 'matthew')	 supp: 0.14%
+('2017', 'emma')	 supp: 0.14%
+('2013', 'noah')	 supp: 0.14%
+('hispanic', 'luna')	 supp: 0.14%
+('2017', 'emma', 'female')	 supp: 0.14%
+('2013', 'male', 'noah')	 supp: 0.14%
+('female', 'hispanic', 'luna')	 supp: 0.14%
+('elizabeth', 'hispanic')	 supp: 0.14%
+('elizabeth', 'female', 'hispanic')	 supp: 0.14%
+('2016', 'olivia')	 supp: 0.14%
+('2012', 'ryan')	 supp: 0.14%
+('2016', 'female', 'olivia')	 supp: 0.14%
+('2012', 'male', 'ryan')	 supp: 0.14%
+('2012', 'isabella')	 supp: 0.14%
+('asian and pacific islander', 'eric')	 supp: 0.14%
+('2012', 'female', 'isabella')	 supp: 0.14%
+('asian and pacific islander', 'eric', 'male')	 supp: 0.14%
+('black non hispanic', 'logan')	 supp: 0.14%
+('malky', 'white non hispanic')	 supp: 0.14%
+('female', 'malky', 'white non hispanic')	 supp: 0.14%
+('caleb', 'male')	 supp: 0.14%
+('2014', 'isabella')	 supp: 0.14%
+('2014', 'female', 'isabella')	 supp: 0.14%
+('2011', 'sophia')	 supp: 0.14%
+('chloe', 'hispanic')	 supp: 0.14%
+('2011', 'female', 'sophia')	 supp: 0.14%
+('chloe', 'female', 'hispanic')	 supp: 0.14%
+('2018', 'ethan')	 supp: 0.14%
+('2018', 'ethan', 'male')	 supp: 0.14%
+('asian and pacific islander', 'mason')	 supp: 0.14%
+('asian and pacific islander', 'male', 'mason')	 supp: 0.14%
+('2016', 'sophia')	 supp: 0.14%
+('2016', 'female', 'sophia')	 supp: 0.14%
+('2011', 'david')	 supp: 0.14%
+('asian and pacific islander', 'noah')	 supp: 0.14%
+('2011', 'david', 'male')	 supp: 0.14%
+('asian and pacific islander', 'male', 'noah')	 supp: 0.14%
+('male', 'yitzchok')	 supp: 0.14%
+('fatima', 'female')	 supp: 0.14%
+('2015', 'david')	 supp: 0.14%
+('2015', 'david', 'male')	 supp: 0.14%
+('2012', 'alexander')	 supp: 0.14%
+('female', 'skylar')	 supp: 0.14%
+('madison', 'white non hispanic')	 supp: 0.14%
+('2012', 'alexander', 'male')	 supp: 0.14%
+('black non hispanic', 'logan', 'male')	 supp: 0.14%
+('female', 'madison', 'white non hispanic')	 supp: 0.14%
+('2015', 'jayden')	 supp: 0.14%
+('female', 'rivky')	 supp: 0.14%
+('2015', 'jayden', 'male')	 supp: 0.14%
+('2013', 'michael')	 supp: 0.13%
+('2018', 'jacob')	 supp: 0.13%
+('asian and pacific islander', 'james')	 supp: 0.13%
+('2017', 'ethan')	 supp: 0.13%
+('2013', 'male', 'michael')	 supp: 0.13%
+('2018', 'jacob', 'male')	 supp: 0.13%
+('asian and pacific islander', 'james', 'male')	 supp: 0.13%
+('2017', 'ethan', 'male')	 supp: 0.13%
+('aaron', 'asian and pacific islander')	 supp: 0.13%
+('aaron', 'asian and pacific islander', 'male')	 supp: 0.13%
+('2014', 'alexander')	 supp: 0.13%
+('asian and pacific islander', 'benjamin')	 supp: 0.13%
+('2014', 'alexander', 'male')	 supp: 0.13%
+('asian and pacific islander', 'benjamin', 'male')	 supp: 0.13%
+('2014', 'olivia')	 supp: 0.13%
+('2014', 'female', 'olivia')	 supp: 0.13%
+('2016', 'matthew')	 supp: 0.13%
+('2013', 'matthew')	 supp: 0.13%
+('2016', 'male', 'matthew')	 supp: 0.13%
+('2013', 'male', 'matthew')	 supp: 0.13%
+('2012', 'joseph')	 supp: 0.13%
+('2019', 'ethan')	 supp: 0.13%
+('2012', 'joseph', 'male')	 supp: 0.13%
+('2019', 'ethan', 'male')	 supp: 0.13%
+('female', 'serenity')	 supp: 0.13%
+('2015', 'daniel')	 supp: 0.13%
+('2016', 'aiden')	 supp: 0.13%
+('2011', 'aiden')	 supp: 0.13%
+('2015', 'daniel', 'male')	 supp: 0.13%
+('2016', 'aiden', 'male')	 supp: 0.13%
+('2011', 'aiden', 'male')	 supp: 0.13%
+('eva', 'white non hispanic')	 supp: 0.13%
+('eva', 'female', 'white non hispanic')	 supp: 0.13%
+('2015', 'dylan')	 supp: 0.13%
+('2015', 'sophia')	 supp: 0.13%
+('2015', 'dylan', 'male')	 supp: 0.13%
+('2015', 'female', 'sophia')	 supp: 0.13%
+('2013', 'alexander')	 supp: 0.13%
+('asian and pacific islander', 'sarah')	 supp: 0.13%
+('2013', 'alexander', 'male')	 supp: 0.13%
+('asian and pacific islander', 'female', 'sarah')	 supp: 0.13%
+('2014', 'mia')	 supp: 0.13%
+('2014', 'female', 'mia')	 supp: 0.13%
+('2016', 'emma')	 supp: 0.13%
+('2015', 'aiden')	 supp: 0.13%
+('2016', 'emma', 'female')	 supp: 0.13%
+('2015', 'aiden', 'male')	 supp: 0.13%
+('jordan', 'male')	 supp: 0.13%
+('ibrahim', 'male')	 supp: 0.13%
+('amelia', 'hispanic')	 supp: 0.13%
+('raizy', 'white non hispanic')	 supp: 0.13%
+('amelia', 'female', 'hispanic')	 supp: 0.13%
+('female', 'raizy', 'white non hispanic')	 supp: 0.13%
+('robert', 'white non hispanic')	 supp: 0.13%
+('male', 'robert', 'white non hispanic')	 supp: 0.13%
+('2016', 'daniel')	 supp: 0.13%
+('2016', 'daniel', 'male')	 supp: 0.13%
+('2014', 'david')	 supp: 0.13%
+('2014', 'david', 'male')	 supp: 0.13%
+('2013', 'emma')	 supp: 0.13%
+('black non hispanic', 'david')	 supp: 0.13%
+('black non hispanic', 'jacob')	 supp: 0.13%
+('2013', 'emma', 'female')	 supp: 0.13%
+('black non hispanic', 'david', 'male')	 supp: 0.13%
+('black non hispanic', 'jacob', 'male')	 supp: 0.13%
+('asian and pacific islander', 'david')	 supp: 0.13%
+('2015', 'emma')	 supp: 0.13%
+('alex', 'male')	 supp: 0.13%
+('asian and pacific islander', 'david', 'male')	 supp: 0.13%
+('2015', 'emma', 'female')	 supp: 0.13%
+('2014', 'matthew')	 supp: 0.13%
+('2014', 'male', 'matthew')	 supp: 0.13%
+('female', 'valerie')	 supp: 0.13%
+('2017', 'olivia')	 supp: 0.13%
+('black non hispanic', 'skylar')	 supp: 0.13%
+('2017', 'female', 'olivia')	 supp: 0.13%
+('black non hispanic', 'female', 'skylar')	 supp: 0.13%
+('2017', 'david')	 supp: 0.13%
+('2017', 'david', 'male')	 supp: 0.13%
+('2015', 'mia')	 supp: 0.13%
+('joshua', 'white non hispanic')	 supp: 0.13%
+('2015', 'female', 'mia')	 supp: 0.13%
+('joshua', 'male', 'white non hispanic')	 supp: 0.13%
+('2011', 'justin')	 supp: 0.13%
+('2017', 'mia')	 supp: 0.13%
+('asian and pacific islander', 'ava')	 supp: 0.13%
+('alan', 'male')	 supp: 0.13%
+('female', 'lucy')	 supp: 0.13%
+('2011', 'justin', 'male')	 supp: 0.13%
+('2017', 'female', 'mia')	 supp: 0.13%
+('asian and pacific islander', 'ava', 'female')	 supp: 0.13%
+('black non hispanic', 'olivia')	 supp: 0.13%
+('black non hispanic', 'female', 'olivia')	 supp: 0.13%
+('2011', 'alexander')	 supp: 0.13%
+('2011', 'alexander', 'male')	 supp: 0.13%
+('bella', 'hispanic')	 supp: 0.13%
+('bella', 'female', 'hispanic')	 supp: 0.13%
+('owen', 'white non hispanic')	 supp: 0.12%
+('male', 'owen', 'white non hispanic')	 supp: 0.12%
+('asian and pacific islander', 'michael')	 supp: 0.12%
+('2014', 'aiden')	 supp: 0.12%
+('eleanor', 'white non hispanic')	 supp: 0.12%
+('penelope', 'white non hispanic')	 supp: 0.12%
+('black non hispanic', 'chloe')	 supp: 0.12%
+('male', 'mohammad')	 supp: 0.12%
+('asian and pacific islander', 'male', 'michael')	 supp: 0.12%
+('2014', 'aiden', 'male')	 supp: 0.12%
+('eleanor', 'female', 'white non hispanic')	 supp: 0.12%
+('female', 'penelope', 'white non hispanic')	 supp: 0.12%
+('black non hispanic', 'chloe', 'female')	 supp: 0.12%
+('2013', 'liam')	 supp: 0.12%
+('female', 'jasmine')	 supp: 0.12%
+('2013', 'liam', 'male')	 supp: 0.12%
+('2013', 'dylan')	 supp: 0.12%
+('2016', 'michael')	 supp: 0.12%
+('2016', 'lucas')	 supp: 0.12%
+('2013', 'dylan', 'male')	 supp: 0.12%
+('2016', 'male', 'michael')	 supp: 0.12%
+('2016', 'lucas', 'male')	 supp: 0.12%
+('2015', 'isabella')	 supp: 0.12%
+('2015', 'female', 'isabella')	 supp: 0.12%
+('2015', 'michael')	 supp: 0.12%
+('aaliyah', 'black non hispanic')	 supp: 0.12%
+('2015', 'male', 'michael')	 supp: 0.12%
+('aaliyah', 'black non hispanic', 'female')	 supp: 0.12%
+('2018', 'emma')	 supp: 0.12%
+('2018', 'emma', 'female')	 supp: 0.12%
+('2013', 'olivia')	 supp: 0.12%
+('andrew', 'asian and pacific islander')	 supp: 0.12%
+('chase', 'male')	 supp: 0.12%
+('black non hispanic', 'chase')	 supp: 0.12%
+('aaliyah', 'hispanic')	 supp: 0.12%
+('2013', 'female', 'olivia')	 supp: 0.12%
+('andrew', 'asian and pacific islander', 'male')	 supp: 0.12%
+('black non hispanic', 'chase', 'male')	 supp: 0.12%
+('aaliyah', 'female', 'hispanic')	 supp: 0.12%
+('2016', 'dylan')	 supp: 0.12%
+('2016', 'dylan', 'male')	 supp: 0.12%
+('2014', 'emma')	 supp: 0.12%
+('rivky', 'white non hispanic')	 supp: 0.12%
+('2014', 'emma', 'female')	 supp: 0.12%
+('female', 'rivky', 'white non hispanic')	 supp: 0.12%
+('2019', 'emma')	 supp: 0.12%
+('asher', 'white non hispanic')	 supp: 0.12%
+('mila', 'white non hispanic')	 supp: 0.12%
+('2019', 'emma', 'female')	 supp: 0.12%
+('asher', 'male', 'white non hispanic')	 supp: 0.12%
+('female', 'mila', 'white non hispanic')	 supp: 0.12%
+('2014', 'dylan')	 supp: 0.12%
+('2014', 'dylan', 'male')	 supp: 0.12%
+('asian and pacific islander', 'grace')	 supp: 0.12%
+('asian and pacific islander', 'female', 'grace')	 supp: 0.12%
+('2017', 'matthew')	 supp: 0.12%
+('2015', 'alexander')	 supp: 0.12%
+('black non hispanic', 'daniel')	 supp: 0.12%
+('2017', 'male', 'matthew')	 supp: 0.12%
+('2015', 'alexander', 'male')	 supp: 0.12%
+('black non hispanic', 'daniel', 'male')	 supp: 0.12%
+('asian and pacific islander', 'dylan')	 supp: 0.12%
+('hispanic', 'valerie')	 supp: 0.12%
+('asian and pacific islander', 'dylan', 'male')	 supp: 0.12%
+('female', 'hispanic', 'valerie')	 supp: 0.12%
+('2013', 'joseph')	 supp: 0.12%
+('logan', 'white non hispanic')	 supp: 0.12%
+('2013', 'joseph', 'male')	 supp: 0.12%
+('logan', 'male', 'white non hispanic')	 supp: 0.12%
+('evelyn', 'white non hispanic')	 supp: 0.12%
+('evelyn', 'female', 'white non hispanic')	 supp: 0.12%
+('2017', 'sophia')	 supp: 0.12%
+('2019', 'jacob')	 supp: 0.12%
+('asian and pacific islander', 'leo')	 supp: 0.12%
+('hispanic', 'josiah')	 supp: 0.12%
+('male', 'tristan')	 supp: 0.12%
+('2017', 'female', 'sophia')	 supp: 0.12%
+('2019', 'jacob', 'male')	 supp: 0.12%
+('asian and pacific islander', 'leo', 'male')	 supp: 0.12%
+('hispanic', 'josiah', 'male')	 supp: 0.12%
+('2017', 'lucas')	 supp: 0.12%
+('asian and pacific islander', 'henry')	 supp: 0.12%
+('king', 'male')	 supp: 0.12%
+('black non hispanic', 'king')	 supp: 0.12%
+('avery', 'white non hispanic')	 supp: 0.12%
+('2017', 'lucas', 'male')	 supp: 0.12%
+('asian and pacific islander', 'henry', 'male')	 supp: 0.12%
+('black non hispanic', 'king', 'male')	 supp: 0.12%
+('avery', 'female', 'white non hispanic')	 supp: 0.12%
+('asian and pacific islander', 'justin')	 supp: 0.12%
+('asian and pacific islander', 'justin', 'male')	 supp: 0.12%
+('white non hispanic', 'yitzchok')	 supp: 0.12%
+('female', 'vivian')	 supp: 0.12%
+('male', 'white non hispanic', 'yitzchok')	 supp: 0.12%
+('2011', 'joseph')	 supp: 0.12%
+('2012', 'emma')	 supp: 0.12%
+('bryan', 'male')	 supp: 0.12%
+('christopher', 'white non hispanic')	 supp: 0.12%
+('amaya', 'female')	 supp: 0.12%
+('2011', 'joseph', 'male')	 supp: 0.12%
+('2012', 'emma', 'female')	 supp: 0.12%
+('christopher', 'male', 'white non hispanic')	 supp: 0.12%
+('2018', 'isabella')	 supp: 0.12%
+('2016', 'david')	 supp: 0.12%
+('asian and pacific islander', 'nathan')	 supp: 0.12%
+('2018', 'female', 'isabella')	 supp: 0.12%
+('2016', 'david', 'male')	 supp: 0.12%
+('asian and pacific islander', 'male', 'nathan')	 supp: 0.12%
+('asian and pacific islander', 'joseph')	 supp: 0.12%
+('asian and pacific islander', 'joseph', 'male')	 supp: 0.12%
+('2015', 'joseph')	 supp: 0.12%
+('2018', 'aiden')	 supp: 0.12%
+('daniela', 'female')	 supp: 0.12%
+('daniela', 'hispanic')	 supp: 0.12%
+('2015', 'joseph', 'male')	 supp: 0.12%
+('2018', 'aiden', 'male')	 supp: 0.12%
+('daniela', 'female', 'hispanic')	 supp: 0.12%
+('female', 'london')	 supp: 0.12%
+('black non hispanic', 'london')	 supp: 0.12%
+('black non hispanic', 'female', 'london')	 supp: 0.12%
+('2012', 'emily')	 supp: 0.12%
+('2012', 'emily', 'female')	 supp: 0.12%
+('2017', 'isabella')	 supp: 0.12%
+('2016', 'alexander')	 supp: 0.12%
+('2014', 'lucas')	 supp: 0.12%
+('2017', 'female', 'isabella')	 supp: 0.12%
+('2016', 'alexander', 'male')	 supp: 0.12%
+('2014', 'lucas', 'male')	 supp: 0.12%
+('2013', 'ryan')	 supp: 0.12%
+('ayden', 'black non hispanic')	 supp: 0.12%
+('black non hispanic', 'kayden')	 supp: 0.12%
+('2013', 'male', 'ryan')	 supp: 0.12%
+('ayden', 'black non hispanic', 'male')	 supp: 0.12%
+('black non hispanic', 'kayden', 'male')	 supp: 0.12%
+('2013', 'mia')	 supp: 0.12%
+('2012', 'olivia')	 supp: 0.12%
+('2013', 'female', 'mia')	 supp: 0.12%
+('2012', 'female', 'olivia')	 supp: 0.12%
+('female', 'nora')	 supp: 0.12%
+('2016', 'mia')	 supp: 0.12%
+('2016', 'female', 'mia')	 supp: 0.12%
+('2014', 'joseph')	 supp: 0.11%
+('2018', 'david')	 supp: 0.11%
+('2014', 'joseph', 'male')	 supp: 0.11%
+('2018', 'david', 'male')	 supp: 0.11%
+('asian and pacific islander', 'tenzin')	 supp: 0.11%
+('2016', 'isabella')	 supp: 0.11%
+('2017', 'daniel')	 supp: 0.11%
+('alice', 'white non hispanic')	 supp: 0.11%
+('2016', 'female', 'isabella')	 supp: 0.11%
+('2017', 'daniel', 'male')	 supp: 0.11%
+('alice', 'female', 'white non hispanic')	 supp: 0.11%
+('2018', 'sophia')	 supp: 0.11%
+('claire', 'female')	 supp: 0.11%
+('2018', 'female', 'sophia')	 supp: 0.11%
+('2017', 'jayden')	 supp: 0.11%
+('2017', 'jayden', 'male')	 supp: 0.11%
+('2017', 'joseph')	 supp: 0.11%
+('2011', 'anthony')	 supp: 0.11%
+('asian and pacific islander', 'charlotte')	 supp: 0.11%
+('asian and pacific islander', 'kevin')	 supp: 0.11%
+('2017', 'joseph', 'male')	 supp: 0.11%
+('2011', 'anthony', 'male')	 supp: 0.11%
+('asian and pacific islander', 'charlotte', 'female')	 supp: 0.11%
+('asian and pacific islander', 'kevin', 'male')	 supp: 0.11%
+('2018', 'mia')	 supp: 0.11%
+('2012', 'mason')	 supp: 0.11%
+('2019', 'lucas')	 supp: 0.11%
+('2017', 'aiden')	 supp: 0.11%
+('2018', 'female', 'mia')	 supp: 0.11%
+('2012', 'male', 'mason')	 supp: 0.11%
+('2019', 'lucas', 'male')	 supp: 0.11%
+('2017', 'aiden', 'male')	 supp: 0.11%
+('2013', 'lucas')	 supp: 0.11%
+('female', 'violet')	 supp: 0.11%
+('2013', 'lucas', 'male')	 supp: 0.11%
+('2018', 'olivia')	 supp: 0.11%
+('2018', 'female', 'olivia')	 supp: 0.11%
+('2019', 'olivia')	 supp: 0.11%
+('2014', 'ryan')	 supp: 0.11%
+('2019', 'female', 'olivia')	 supp: 0.11%
+('2014', 'male', 'ryan')	 supp: 0.11%
+('black non hispanic', 'ryan')	 supp: 0.11%
+('asian and pacific islander', 'ella')	 supp: 0.11%
+('asian and pacific islander', 'ella', 'female')	 supp: 0.11%
+('2014', 'mason')	 supp: 0.11%
+('hispanic', 'john')	 supp: 0.11%
+('2014', 'male', 'mason')	 supp: 0.11%
+('hispanic', 'john', 'male')	 supp: 0.11%
+('2018', 'lucas')	 supp: 0.11%
+('2018', 'lucas', 'male')	 supp: 0.11%
+('2019', 'sophia')	 supp: 0.11%
+('2019', 'female', 'sophia')	 supp: 0.11%
+('2016', 'jayden')	 supp: 0.11%
+('asian and pacific islander', 'oliver')	 supp: 0.11%
+('2016', 'jayden', 'male')	 supp: 0.11%
+('asian and pacific islander', 'male', 'oliver')	 supp: 0.11%
+('2011', 'joshua')	 supp: 0.11%
+('2012', 'dylan')	 supp: 0.11%
+('asian and pacific islander', 'austin')	 supp: 0.11%
+('2011', 'joshua', 'male')	 supp: 0.11%
+('2012', 'dylan', 'male')	 supp: 0.11%
+('asian and pacific islander', 'austin', 'male')	 supp: 0.11%
+('2014', 'emily')	 supp: 0.11%
+('2014', 'emily', 'female')	 supp: 0.11%
+('2017', 'dylan')	 supp: 0.11%
+('2015', 'lucas')	 supp: 0.11%
+('2012', 'noah')	 supp: 0.11%
+('hispanic', 'nicole')	 supp: 0.11%
+('asian and pacific islander', 'mohammad')	 supp: 0.11%
+('2017', 'dylan', 'male')	 supp: 0.11%
+('2015', 'lucas', 'male')	 supp: 0.11%
+('2012', 'male', 'noah')	 supp: 0.11%
+('female', 'hispanic', 'nicole')	 supp: 0.11%
+('asian and pacific islander', 'male', 'mohammad')	 supp: 0.11%
+('2011', 'olivia')	 supp: 0.11%
+('2016', 'ava')	 supp: 0.11%
+('george', 'white non hispanic')	 supp: 0.11%
+('hispanic', 'sarah')	 supp: 0.11%
+('2011', 'female', 'olivia')	 supp: 0.11%
+('2016', 'ava', 'female')	 supp: 0.11%
+('george', 'male', 'white non hispanic')	 supp: 0.11%
+('female', 'hispanic', 'sarah')	 supp: 0.11%
+('2013', 'mason')	 supp: 0.11%
+('2011', 'ryan')	 supp: 0.11%
+('2013', 'male', 'mason')	 supp: 0.11%
+('2011', 'male', 'ryan')	 supp: 0.11%
+('hispanic', 'layla')	 supp: 0.11%
+('female', 'hispanic', 'layla')	 supp: 0.11%
+('black non hispanic', 'justin')	 supp: 0.11%
+('female', 'shaindy')	 supp: 0.11%
+('male', 'zion')	 supp: 0.11%
+('black non hispanic', 'zion')	 supp: 0.11%
+('female', 'natalie')	 supp: 0.11%
+('black non hispanic', 'justin', 'male')	 supp: 0.11%
+('black non hispanic', 'male', 'zion')	 supp: 0.11%
+('2019', 'mia')	 supp: 0.11%
+('hispanic', 'juan')	 supp: 0.11%
+('juan', 'male')	 supp: 0.11%
+('black non hispanic', 'christopher')	 supp: 0.11%
+('female', 'harper')	 supp: 0.11%
+('2019', 'female', 'mia')	 supp: 0.11%
+('hispanic', 'juan', 'male')	 supp: 0.11%
+('black non hispanic', 'christopher', 'male')	 supp: 0.11%
+('2016', 'ryan')	 supp: 0.11%
+('2016', 'male', 'ryan')	 supp: 0.11%
+('black non hispanic', 'male', 'ryan')	 supp: 0.11%
+('2018', 'matthew')	 supp: 0.11%
+('2012', 'mia')	 supp: 0.11%
+('2017', 'ava')	 supp: 0.11%
+('2018', 'male', 'matthew')	 supp: 0.11%
+('2012', 'female', 'mia')	 supp: 0.11%
+('2017', 'ava', 'female')	 supp: 0.11%
+('2011', 'christopher')	 supp: 0.11%
+('2011', 'christopher', 'male')	 supp: 0.11%
+('2012', 'anthony')	 supp: 0.11%
+('asian and pacific islander', 'hannah')	 supp: 0.11%
+('2012', 'anthony', 'male')	 supp: 0.11%
+('asian and pacific islander', 'female', 'hannah')	 supp: 0.11%
+('adam', 'asian and pacific islander')	 supp: 0.11%
+('adam', 'asian and pacific islander', 'male')	 supp: 0.11%
+('2013', 'aiden')	 supp: 0.11%
+('asian and pacific islander', 'owen')	 supp: 0.11%
+('2013', 'aiden', 'male')	 supp: 0.11%
+('asian and pacific islander', 'male', 'owen')	 supp: 0.11%
+('benjamin', 'hispanic')	 supp: 0.11%
+('benjamin', 'hispanic', 'male')	 supp: 0.11%
+('2017', 'michael')	 supp: 0.11%
+('2011', 'hispanic', 'jayden')	 supp: 0.11%
+('2017', 'male', 'michael')	 supp: 0.11%
+('2011', 'hispanic', 'jayden', 'male')	 supp: 0.11%
+('2012', 'joshua')	 supp: 0.11%
+('malachi', 'male')	 supp: 0.11%
+('black non hispanic', 'malachi')	 supp: 0.11%
+('lucy', 'white non hispanic')	 supp: 0.11%
+('2012', 'joshua', 'male')	 supp: 0.11%
+('black non hispanic', 'malachi', 'male')	 supp: 0.11%
+('female', 'lucy', 'white non hispanic')	 supp: 0.11%
+('2013', 'emily')	 supp: 0.11%
+('2015', 'ryan')	 supp: 0.11%
+('2019', 'aiden')	 supp: 0.11%
+('female', 'gabriela')	 supp: 0.11%
+('gabriela', 'hispanic')	 supp: 0.11%
+('2013', 'emily', 'female')	 supp: 0.11%
+('2015', 'male', 'ryan')	 supp: 0.11%
+('2019', 'aiden', 'male')	 supp: 0.11%
+('female', 'gabriela', 'hispanic')	 supp: 0.11%
+('2019', 'hispanic', 'liam')	 supp: 0.11%
+('2019', 'hispanic', 'liam', 'male')	 supp: 0.11%
+('2016', 'joseph')	 supp: 0.1%
+('2016', 'joseph', 'male')	 supp: 0.1%
+('2019', 'daniel')	 supp: 0.1%
+('2017', 'ryan')	 supp: 0.1%
+('2019', 'daniel', 'male')	 supp: 0.1%
+('2017', 'male', 'ryan')	 supp: 0.1%
+('black non hispanic', 'jordan')	 supp: 0.1%
+('black non hispanic', 'cameron')	 supp: 0.1%
+('cameron', 'male')	 supp: 0.1%
+('black non hispanic', 'cameron', 'male')	 supp: 0.1%
+('2011', 'mia')	 supp: 0.1%
+('2011', 'emma')	 supp: 0.1%
+('hispanic', 'jade')	 supp: 0.1%
+('2011', 'female', 'mia')	 supp: 0.1%
+('2011', 'emma', 'female')	 supp: 0.1%
+('female', 'hispanic', 'jade')	 supp: 0.1%
+('2019', 'michael')	 supp: 0.1%
+('asian and pacific islander', 'samuel')	 supp: 0.1%
+('2019', 'male', 'michael')	 supp: 0.1%
+('asian and pacific islander', 'male', 'samuel')	 supp: 0.1%
+('2012', 'justin')	 supp: 0.1%
+('2018', 'daniel')	 supp: 0.1%
+('2012', 'justin', 'male')	 supp: 0.1%
+('2018', 'daniel', 'male')	 supp: 0.1%
+('amelia', 'asian and pacific islander')	 supp: 0.1%
+('male', 'vincent')	 supp: 0.1%
+('amelia', 'asian and pacific islander', 'female')	 supp: 0.1%
+('2015', 'sebastian')	 supp: 0.1%
+('2019', 'david')	 supp: 0.1%
+('2015', 'male', 'sebastian')	 supp: 0.1%
+('2019', 'david', 'male')	 supp: 0.1%
+('kaiden', 'male')	 supp: 0.1%
+('black non hispanic', 'kaiden')	 supp: 0.1%
+('chelsea', 'female')	 supp: 0.1%
+('black non hispanic', 'kaiden', 'male')	 supp: 0.1%
+('2018', 'dylan')	 supp: 0.1%
+('2018', 'alexander')	 supp: 0.1%
+('angela', 'female')	 supp: 0.1%
+('hispanic', 'penelope')	 supp: 0.1%
+('nora', 'white non hispanic')	 supp: 0.1%
+('2018', 'dylan', 'male')	 supp: 0.1%
+('2018', 'alexander', 'male')	 supp: 0.1%
+('female', 'hispanic', 'penelope')	 supp: 0.1%
+('female', 'nora', 'white non hispanic')	 supp: 0.1%
+('2015', 'mason')	 supp: 0.1%
+('2015', 'male', 'mason')	 supp: 0.1%
+('2017', 'hispanic', 'liam')	 supp: 0.1%
+('2017', 'hispanic', 'liam', 'male')	 supp: 0.1%
+('2017', 'alexander')	 supp: 0.1%
+('2017', 'alexander', 'male')	 supp: 0.1%
+('2011', 'emily')	 supp: 0.1%
+('female', 'taylor')	 supp: 0.1%
+('2011', 'emily', 'female')	 supp: 0.1%
+('2019', 'matthew')	 supp: 0.1%
+('2015', 'leah')	 supp: 0.1%
+('2015', 'james')	 supp: 0.1%
+('2019', 'male', 'matthew')	 supp: 0.1%
+('2015', 'female', 'leah')	 supp: 0.1%
+('2015', 'james', 'male')	 supp: 0.1%
+('2013', 'joshua')	 supp: 0.1%
+('black non hispanic', 'matthew')	 supp: 0.1%
+('2013', 'joshua', 'male')	 supp: 0.1%
+('black non hispanic', 'male', 'matthew')	 supp: 0.1%
+('adriana', 'female')	 supp: 0.1%
+
+
+
+==High-confidence association rules (min_conf=50.0%)==
+('2011', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('christian',) ===> ('male',)	 conf: 100.0% 	 supp: 0.43%
+('adam', 'asian and pacific islander') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2013', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('hannah',) ===> ('female',)	 conf: 100.0% 	 supp: 0.34%
+('ariana',) ===> ('female',)	 conf: 100.0% 	 supp: 0.27%
+('2018', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('daniela',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('aiden', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.4%
+('emily',) ===> ('female',)	 conf: 100.0% 	 supp: 0.84%
+('2016', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('asian and pacific islander', 'chloe') ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('eli', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('zion',) ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('tristan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2017', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('asian and pacific islander', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2017', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('asian and pacific islander', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('stella',) ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('joshua',) ===> ('male',)	 conf: 100.0% 	 supp: 0.74%
+('ian',) ===> ('male',)	 conf: 100.0% 	 supp: 0.32%
+('2012', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('jackson', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('2014', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2013', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2016', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('max',) ===> ('male',)	 conf: 100.0% 	 supp: 0.28%
+('kevin',) ===> ('male',)	 conf: 100.0% 	 supp: 0.43%
+('2019', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('michelle',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('faigy',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('2013', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('anthony',) ===> ('male',)	 conf: 100.0% 	 supp: 0.74%
+('anna',) ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('asian and pacific islander', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('joseph',) ===> ('male',)	 conf: 100.0% 	 supp: 1.0%
+('isaac',) ===> ('male',)	 conf: 100.0% 	 supp: 0.58%
+('2014', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'justin') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('elizabeth', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('ariana', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('2012', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('violet',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2018', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'henry') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2019', 'hispanic', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('hispanic', 'sofia') ===> ('female',)	 conf: 100.0% 	 supp: 0.37%
+('2012', 'justin') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('adrian', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.3%
+('moshe', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.48%
+('abigail',) ===> ('female',)	 conf: 100.0% 	 supp: 0.63%
+('alexander',) ===> ('male',)	 conf: 100.0% 	 supp: 1.06%
+('2012', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('london',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('charlotte', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.32%
+('gabriel', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('naomi',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('lily',) ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('2011', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2014', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2013', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2015', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('white non hispanic', 'zachary') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('vivian',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2011', 'christopher') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2012', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('2014', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('hispanic', 'leah') ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('chase',) ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2018', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('samuel', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.36%
+('2013', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('ashley',) ===> ('female',)	 conf: 100.0% 	 supp: 0.38%
+('2017', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('asian and pacific islander', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.29%
+('jade',) ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('2011', 'emily') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('malachi',) ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('victoria',) ===> ('female',)	 conf: 100.0% 	 supp: 0.57%
+('2011', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2019', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('elias', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('hispanic', 'jade') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('ethan', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.3%
+('2015', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('asian and pacific islander', 'muhammad') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('arianna',) ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('moshe',) ===> ('male',)	 conf: 100.0% 	 supp: 0.54%
+('male', 'zion') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('juan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('samantha',) ===> ('female',)	 conf: 100.0% 	 supp: 0.34%
+('hispanic', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.51%
+('abraham', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.3%
+('leah', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.41%
+('scarlett',) ===> ('female',)	 conf: 100.0% 	 supp: 0.28%
+('2014', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('2019', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('asian and pacific islander', 'benjamin') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('asian and pacific islander', 'charlotte') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('hispanic', 'joshua') ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('chloe', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('zion',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'leo') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('camila', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.39%
+('charles', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('raizy', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('george', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'grace') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('maria',) ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('asian and pacific islander', 'samuel') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('juan',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('amelia', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('matthew',) ===> ('male',)	 conf: 100.0% 	 supp: 1.16%
+('ryan', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.29%
+('amelia',) ===> ('female',)	 conf: 100.0% 	 supp: 0.49%
+('emma',) ===> ('female',)	 conf: 100.0% 	 supp: 1.12%
+('2019', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('hispanic', 'xavier') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('hispanic', 'samantha') ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('yehuda',) ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('2018', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('asher', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2016', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('2012', 'anthony') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('camila',) ===> ('female',)	 conf: 100.0% 	 supp: 0.39%
+('2015', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2015', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('black non hispanic', 'chloe') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'jeremy') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('2019', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('aiden', 'asian and pacific islander') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('amaya',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('david',) ===> ('male',)	 conf: 100.0% 	 supp: 1.15%
+('christopher', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.34%
+('david', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.56%
+('hispanic', 'kimberly') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('king', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.54%
+('black non hispanic', 'london') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('black non hispanic', 'cameron') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2015', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'christian') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('valentina',) ===> ('female',)	 conf: 100.0% 	 supp: 0.3%
+('aria',) ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('2015', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('chloe',) ===> ('female',)	 conf: 100.0% 	 supp: 0.73%
+('asian and pacific islander', 'oliver') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('asian and pacific islander', 'james') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('2012', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('gabriela',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.37%
+('bella',) ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('hispanic', 'jose') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('vincent',) ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2016', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('steven',) ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('chana',) ===> ('female',)	 conf: 100.0% 	 supp: 0.32%
+('2015', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('julian', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('carter',) ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('aiden', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('hispanic', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.37%
+('2018', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('emily', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.27%
+('2018', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('nicole',) ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('chase',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('black non hispanic', 'jeremiah') ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('sarah',) ===> ('female',)	 conf: 100.0% 	 supp: 0.7%
+('jeremiah',) ===> ('male',)	 conf: 100.0% 	 supp: 0.45%
+('asian and pacific islander', 'owen') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('muhammad',) ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('2012', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('grace',) ===> ('female',)	 conf: 100.0% 	 supp: 0.42%
+('alexander', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.41%
+('2015', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('hispanic', 'nicholas') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('hispanic', 'valerie') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('sophie',) ===> ('female',)	 conf: 100.0% 	 supp: 0.22%
+('taylor',) ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('eleanor', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2013', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('genesis', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('carlos',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.18%
+('2017', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('jacob', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.49%
+('gabriella',) ===> ('female',)	 conf: 100.0% 	 supp: 0.37%
+('black non hispanic', 'justin') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('kaiden', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.1%
+('2014', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('aaron',) ===> ('male',)	 conf: 100.0% 	 supp: 0.67%
+('luke',) ===> ('male',)	 conf: 100.0% 	 supp: 0.26%
+('amy', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('kimberly',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('sarah', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.39%
+('2013', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('genesis',) ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('hispanic', 'madison') ===> ('female',)	 conf: 100.0% 	 supp: 0.22%
+('2016', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('theodore', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.24%
+('black non hispanic', 'skylar') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2014', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('asian and pacific islander', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('jack', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.39%
+('melanie',) ===> ('female',)	 conf: 100.0% 	 supp: 0.22%
+('isaac', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('2019', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'carter') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('miriam',) ===> ('female',)	 conf: 100.0% 	 supp: 0.35%
+('2016', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('isaiah',) ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('dylan', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('black non hispanic', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('nathan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.52%
+('2017', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('alyssa',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('adam', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.32%
+('2013', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('white non hispanic', 'william') ===> ('male',)	 conf: 100.0% 	 supp: 0.36%
+('christian', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('ava', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('2018', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('joel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('emmanuel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('black non hispanic', 'zion') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2014', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('kaylee',) ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('adriana',) ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('eva', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('malachi',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('layla',) ===> ('female',)	 conf: 100.0% 	 supp: 0.28%
+('asher',) ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('zachary',) ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('2019', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('asian and pacific islander', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('ethan',) ===> ('male',)	 conf: 100.0% 	 supp: 1.47%
+('andrew', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('noah',) ===> ('male',)	 conf: 100.0% 	 supp: 1.29%
+('2011', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('gabriela', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2012', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('andrew',) ===> ('male',)	 conf: 100.0% 	 supp: 0.56%
+('2016', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('camila',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.39%
+('2011', 'joshua') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('theodore',) ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('harper',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('liam', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.28%
+('asian and pacific islander', 'emily') ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('alexandra',) ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('2017', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2019', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('sebastian',) ===> ('male',)	 conf: 100.0% 	 supp: 0.73%
+('george',) ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('mordechai', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('christopher',) ===> ('male',)	 conf: 100.0% 	 supp: 0.63%
+('hannah', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('thomas',) ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('hispanic', 'john') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('maya',) ===> ('female',)	 conf: 100.0% 	 supp: 0.46%
+('asian and pacific islander', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.31%
+('malachi', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'ella') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('abraham',) ===> ('male',)	 conf: 100.0% 	 supp: 0.33%
+('robert',) ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2016', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'logan') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('benjamin', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('female', 'london') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('tyler',) ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('2015', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('benjamin',) ===> ('male',)	 conf: 100.0% 	 supp: 0.72%
+('2014', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('hispanic', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.68%
+('asian and pacific islander', 'mohammad') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2018', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('male', 'mateo') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.2%
+('rivka',) ===> ('female',)	 conf: 100.0% 	 supp: 0.27%
+('alice',) ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('owen', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'scarlett') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('hispanic', 'melanie') ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('ashley', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.28%
+('2013', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('jackson',) ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('penelope',) ===> ('female',)	 conf: 100.0% 	 supp: 0.28%
+('2015', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('avery', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('camila', 'female') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.39%
+('sara', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('2014', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('michael',) ===> ('male',)	 conf: 100.0% 	 supp: 1.13%
+('hispanic', 'kevin') ===> ('male',)	 conf: 100.0% 	 supp: 0.24%
+('oliver',) ===> ('male',)	 conf: 100.0% 	 supp: 0.46%
+('kayden',) ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('zoe',) ===> ('female',)	 conf: 100.0% 	 supp: 0.54%
+('shimon',) ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('chana', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.28%
+('ava',) ===> ('female',)	 conf: 100.0% 	 supp: 0.81%
+('abigail', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('penelope', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('logan', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('malka',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('black non hispanic', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('hispanic', 'james') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('hispanic', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.63%
+('2011', 'anthony') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('mason',) ===> ('male',)	 conf: 100.0% 	 supp: 0.89%
+('aaron', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.29%
+('malky',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('luis', 'male') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.21%
+('2014', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('2017', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('alexander', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.4%
+('2014', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('2018', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'samuel') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('asian and pacific islander', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('jason',) ===> ('male',)	 conf: 100.0% 	 supp: 0.33%
+('hispanic', 'josiah') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('gabriella', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('black non hispanic', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2012', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('2016', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2015', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('2013', 'joshua') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('hispanic', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.33%
+('2018', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('james',) ===> ('male',)	 conf: 100.0% 	 supp: 0.8%
+('charlotte',) ===> ('female',)	 conf: 100.0% 	 supp: 0.51%
+('rachel',) ===> ('female',)	 conf: 100.0% 	 supp: 0.47%
+('asian and pacific islander', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('miriam', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.32%
+('luca', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('black non hispanic', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('amir', 'black non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('2016', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('chaim',) ===> ('male',)	 conf: 100.0% 	 supp: 0.33%
+('2017', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2017', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'eric') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('hispanic', 'penelope') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('lily', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('hispanic', 'mateo') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('henry', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.36%
+('asian and pacific islander', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('bella', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('daniela', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2016', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2013', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2013', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('black non hispanic', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.26%
+('black non hispanic', 'king') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('valerie',) ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2015', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('lucas', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('victoria', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('black non hispanic', 'tyler') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('daniela',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('william',) ===> ('male',)	 conf: 100.0% 	 supp: 0.67%
+('rivka', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('ava', 'black non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('hispanic', 'ian') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('hispanic', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.54%
+('faigy', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('king',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('jacob',) ===> ('male',)	 conf: 100.0% 	 supp: 1.41%
+('2017', 'ava') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('alan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('sebastian', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('2015', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2012', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('black non hispanic', 'kayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'sarah') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2017', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('lucas',) ===> ('male',)	 conf: 100.0% 	 supp: 0.99%
+('hispanic', 'justin') ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('xavier',) ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('2016', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2013', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('shimon', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('2013', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('cameron',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.1%
+('ayden', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('asian and pacific islander', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('sofia',) ===> ('female',)	 conf: 100.0% 	 supp: 0.69%
+('hispanic', 'luna') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('hispanic', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.64%
+('sofia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.23%
+('white non hispanic', 'yosef') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('kaiden',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.1%
+('2013', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('2017', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('angelina',) ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('luna',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('2014', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('alice', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2013', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('nicholas',) ===> ('male',)	 conf: 100.0% 	 supp: 0.63%
+('anthony', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('malky', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('asian and pacific islander', 'william') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('alex',) ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'elijah') ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('daniela', 'female') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('ayden',) ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('shaindy',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('leah',) ===> ('female',)	 conf: 100.0% 	 supp: 0.83%
+('john', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.32%
+('hispanic', 'sebastian') ===> ('male',)	 conf: 100.0% 	 supp: 0.51%
+('raizy',) ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('alexa',) ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('mia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.05%
+('angela',) ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('2016', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('aiden',) ===> ('male',)	 conf: 100.0% 	 supp: 1.11%
+('black non hispanic', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('noah', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('zoey',) ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('2014', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('andrew', 'asian and pacific islander') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('ayden', 'black non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2013', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('brianna', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('2018', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('leo', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('mateo',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.2%
+('nathan', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('black non hispanic', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.3%
+('brianna',) ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('2014', 'emily') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('katherine',) ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('asian and pacific islander', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.34%
+('grace', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('2013', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('evelyn', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('carlos',) ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('emily', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.31%
+('king',) ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('luke', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('julian',) ===> ('male',)	 conf: 100.0% 	 supp: 0.46%
+('hispanic', 'layla') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('jasmine',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('lucy',) ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('menachem', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('dylan', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.57%
+('2014', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('chaya', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.37%
+('kayla',) ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('ava', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.3%
+('eva',) ===> ('female',)	 conf: 100.0% 	 supp: 0.29%
+('jose', 'male') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.23%
+('2017', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('elijah',) ===> ('male',)	 conf: 100.0% 	 supp: 0.49%
+('alexander', 'asian and pacific islander') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('2011', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('aaliyah', 'black non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('gabriel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.63%
+('jayden',) ===> ('male',)	 conf: 100.0% 	 supp: 1.24%
+('jonathan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.52%
+('nora',) ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('mila',) ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('2013', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'josiah') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('aaliyah',) ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('asian and pacific islander', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2014', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('asian and pacific islander', 'sarah') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('amir',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.2%
+('2011', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('mila', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('jeremy',) ===> ('male',)	 conf: 100.0% 	 supp: 0.28%
+('2012', 'joshua') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('mohammad',) ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2016', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'joshua') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('aiden', 'black non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.28%
+('nathaniel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('matthew', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.29%
+('2017', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('hispanic', 'zoe') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('adrian',) ===> ('male',)	 conf: 100.0% 	 supp: 0.38%
+('eric',) ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('asian and pacific islander', 'jason') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('2012', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('juan', 'male') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('white non hispanic', 'yehuda') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2013', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('samuel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.69%
+('2019', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('asian and pacific islander', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'isaac') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('yosef',) ===> ('male',)	 conf: 100.0% 	 supp: 0.24%
+('oliver', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('allison',) ===> ('female',)	 conf: 100.0% 	 supp: 0.22%
+('amy',) ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('joseph', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.55%
+('eliana',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('ethan', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.55%
+('julia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('2015', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('jack',) ===> ('male',)	 conf: 100.0% 	 supp: 0.47%
+('black non hispanic', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('olivia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.12%
+('asian and pacific islander', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('gabriela',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('mason', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('adam',) ===> ('male',)	 conf: 100.0% 	 supp: 0.46%
+('andrew', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('menachem',) ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('hispanic', 'jeremiah') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('2016', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('white non hispanic', 'yisroel') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('2018', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('isabella', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('black non hispanic', 'isaiah') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('2011', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('brandon',) ===> ('male',)	 conf: 100.0% 	 supp: 0.37%
+('eleanor',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('hispanic', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.4%
+('esther',) ===> ('female',)	 conf: 100.0% 	 supp: 0.52%
+('claire',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('hispanic', 'olivia') ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('2016', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2017', 'hispanic', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('chase', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('london',) ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('cameron',) ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2018', 'lucas') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('max', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('jaden',) ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2017', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2015', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2018', 'dylan') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2012', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('anthony', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.33%
+('2014', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('2011', 'hispanic', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('emma', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.43%
+('asian and pacific islander', 'ava') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('2014', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('david', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.34%
+('black non hispanic', 'kaiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('austin',) ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('james', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.42%
+('daniel', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.42%
+('john',) ===> ('male',)	 conf: 100.0% 	 supp: 0.52%
+('2012', 'noah') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('sara',) ===> ('female',)	 conf: 100.0% 	 supp: 0.34%
+('kyle',) ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('2016', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('female', 'gabriela') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.11%
+('hailey', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('black non hispanic', 'madison') ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('arianna', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('2015', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('evelyn',) ===> ('female',)	 conf: 100.0% 	 supp: 0.29%
+('bryan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('ella',) ===> ('female',)	 conf: 100.0% 	 supp: 0.4%
+('justin',) ===> ('male',)	 conf: 100.0% 	 supp: 0.57%
+('carlos', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('2015', 'james') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('hispanic', 'juan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('skylar',) ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('alexa', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('gitty',) ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('stella', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('charles',) ===> ('male',)	 conf: 100.0% 	 supp: 0.34%
+('2012', 'emily') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('nora', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('malka', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('khloe',) ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('yisroel',) ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('2017', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('abigail', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.24%
+('cameron', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.1%
+('2016', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('elias',) ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('asian and pacific islander', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.31%
+('luis',) ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('daniel',) ===> ('male',)	 conf: 100.0% 	 supp: 1.19%
+('2011', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('2015', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('elijah', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('2019', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('fatima',) ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('ibrahim',) ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('hispanic', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('amir', 'male') ===> ('black non hispanic',)	 conf: 100.0% 	 supp: 0.2%
+('chelsea',) ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('rivky', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('rivky',) ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('2012', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('black non hispanic', 'christopher') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('allison', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('asian and pacific islander', 'austin') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('liam',) ===> ('male',)	 conf: 100.0% 	 supp: 1.36%
+('aaron', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('esther', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.45%
+('gitty', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('elizabeth',) ===> ('female',)	 conf: 100.0% 	 supp: 0.46%
+('amelia', 'asian and pacific islander') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('anna', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('emma', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.41%
+('2015', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'kevin') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2015', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('2015', 'ethan') ===> ('male',)	 conf: 100.0% 	 supp: 0.19%
+('hispanic', 'jonathan') ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('elizabeth', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.2%
+('carlos', 'male') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.18%
+('2012', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('asian and pacific islander', 'hannah') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2012', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('2014', 'joseph') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('leo',) ===> ('male',)	 conf: 100.0% 	 supp: 0.4%
+('serenity',) ===> ('female',)	 conf: 100.0% 	 supp: 0.13%
+('michael', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.5%
+('asian and pacific islander', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('julia',) ===> ('female',)	 conf: 100.0% 	 supp: 0.23%
+('madison', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('2011', 'justin') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('alexandra', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('hispanic', 'julian') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('asian and pacific islander', 'evan') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('robert', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('2019', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2014', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('2014', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('isabella',) ===> ('female',)	 conf: 100.0% 	 supp: 1.15%
+('nicholas', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.28%
+('rachel', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.38%
+('sophia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.2%
+('chaya',) ===> ('female',)	 conf: 100.0% 	 supp: 0.41%
+('2017', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('2012', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('christopher', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('ella', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('natalie',) ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('kylie',) ===> ('female',)	 conf: 100.0% 	 supp: 0.17%
+('angel', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.42%
+('2017', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('jose',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.23%
+('hispanic', 'victoria') ===> ('female',)	 conf: 100.0% 	 supp: 0.26%
+('luca',) ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('gabriella', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('maya', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.23%
+('2012', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('hispanic', 'luis') ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('chloe', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.21%
+('jose',) ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('hailey',) ===> ('female',)	 conf: 100.0% 	 supp: 0.31%
+('sophia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.35%
+('2019', 'michael') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('kaiden',) ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('hispanic', 'kaylee') ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('madison',) ===> ('female',)	 conf: 100.0% 	 supp: 0.67%
+('2015', 'sebastian') ===> ('male',)	 conf: 100.0% 	 supp: 0.1%
+('hispanic', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.66%
+('hispanic', 'nicole') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2011', 'isabella') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('gabriel', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('brandon', 'hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('2016', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.17%
+('mordechai',) ===> ('male',)	 conf: 100.0% 	 supp: 0.21%
+('hispanic', 'valentina') ===> ('female',)	 conf: 100.0% 	 supp: 0.25%
+('2012', 'mason') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('emilia',) ===> ('female',)	 conf: 100.0% 	 supp: 0.16%
+('2018', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2015', 'daniel') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('caleb',) ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('owen',) ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('aaliyah', 'hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.12%
+('2018', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2017', 'jacob') ===> ('male',)	 conf: 100.0% 	 supp: 0.16%
+('savannah',) ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('asian and pacific islander', 'nathan') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('luis',) ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.21%
+('thomas', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('chaim', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.29%
+('2011', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('black non hispanic', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.25%
+('amir',) ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('2017', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2016', 'ava') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('joshua', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('amelia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('white non hispanic', 'zoe') ===> ('female',)	 conf: 100.0% 	 supp: 0.18%
+('gianna',) ===> ('female',)	 conf: 100.0% 	 supp: 0.19%
+('2019', 'aiden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('olivia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.48%
+('2012', 'sophia') ===> ('female',)	 conf: 100.0% 	 supp: 0.15%
+('mateo',) ===> ('male',)	 conf: 100.0% 	 supp: 0.2%
+('mia', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.27%
+('2016', 'alexander') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('2019', 'mia') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('asian and pacific islander', 'emma') ===> ('female',)	 conf: 100.0% 	 supp: 0.23%
+('2013', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.18%
+('white non hispanic', 'yitzchok') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('hispanic', 'matthew') ===> ('male',)	 conf: 100.0% 	 supp: 0.61%
+('josiah',) ===> ('male',)	 conf: 100.0% 	 supp: 0.34%
+('riley',) ===> ('female',)	 conf: 100.0% 	 supp: 0.23%
+('daniel', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.43%
+('black non hispanic', 'malachi') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('2017', 'jayden') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('benjamin', 'white non hispanic') ===> ('male',)	 conf: 100.0% 	 supp: 0.44%
+('lucy', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('eli',) ===> ('male',)	 conf: 100.0% 	 supp: 0.27%
+('2011', 'ryan') ===> ('male',)	 conf: 100.0% 	 supp: 0.11%
+('yitzchok',) ===> ('male',)	 conf: 100.0% 	 supp: 0.14%
+('evan',) ===> ('male',)	 conf: 100.0% 	 supp: 0.22%
+('aaron', 'asian and pacific islander') ===> ('male',)	 conf: 100.0% 	 supp: 0.13%
+('hispanic', 'nathan') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('sophie', 'white non hispanic') ===> ('female',)	 conf: 100.0% 	 supp: 0.14%
+('henry',) ===> ('male',)	 conf: 100.0% 	 supp: 0.48%
+('black non hispanic', 'chase') ===> ('male',)	 conf: 100.0% 	 supp: 0.12%
+('black non hispanic', 'liam') ===> ('male',)	 conf: 100.0% 	 supp: 0.23%
+('2015', 'leah') ===> ('female',)	 conf: 100.0% 	 supp: 0.1%
+('2013', 'emily') ===> ('female',)	 conf: 100.0% 	 supp: 0.11%
+('2013', 'david') ===> ('male',)	 conf: 100.0% 	 supp: 0.15%
+('angel', 'male') ===> ('hispanic',)	 conf: 100.0% 	 supp: 0.42%
+('dylan',) ===> ('male',)	 conf: 99.73% 	 supp: 1.01%
+('ryan',) ===> ('male',)	 conf: 99.61% 	 supp: 0.97%
+('logan',) ===> ('male',)	 conf: 99.36% 	 supp: 0.54%
+('black non hispanic', 'logan') ===> ('male',)	 conf: 97.48% 	 supp: 0.14%
+('carter', 'male') ===> ('black non hispanic',)	 conf: 97.48% 	 supp: 0.15%
+('carter',) ===> ('black non hispanic',)	 conf: 97.48% 	 supp: 0.15%
+('black non hispanic', 'ryan') ===> ('male',)	 conf: 96.66% 	 supp: 0.11%
+('valerie',) ===> ('hispanic',)	 conf: 95.28% 	 supp: 0.12%
+('female', 'valerie') ===> ('hispanic',)	 conf: 95.28% 	 supp: 0.12%
+('female', 'kimberly') ===> ('hispanic',)	 conf: 94.89% 	 supp: 0.16%
+('kimberly',) ===> ('hispanic',)	 conf: 94.89% 	 supp: 0.16%
+('skylar',) ===> ('black non hispanic',)	 conf: 93.73% 	 supp: 0.13%
+('female', 'skylar') ===> ('black non hispanic',)	 conf: 93.73% 	 supp: 0.13%
+('jordan',) ===> ('male',)	 conf: 91.87% 	 supp: 0.13%
+('female', 'malka') ===> ('white non hispanic',)	 conf: 91.38% 	 supp: 0.15%
+('malka',) ===> ('white non hispanic',)	 conf: 91.38% 	 supp: 0.15%
+('rivka',) ===> ('white non hispanic',)	 conf: 91.18% 	 supp: 0.25%
+('female', 'rivka') ===> ('white non hispanic',)	 conf: 91.18% 	 supp: 0.25%
+('elias', 'male') ===> ('hispanic',)	 conf: 91.06% 	 supp: 0.19%
+('elias',) ===> ('hispanic',)	 conf: 91.06% 	 supp: 0.19%
+('raizy',) ===> ('white non hispanic',)	 conf: 90.89% 	 supp: 0.13%
+('female', 'raizy') ===> ('white non hispanic',)	 conf: 90.89% 	 supp: 0.13%
+('male', 'menachem') ===> ('white non hispanic',)	 conf: 90.78% 	 supp: 0.19%
+('menachem',) ===> ('white non hispanic',)	 conf: 90.78% 	 supp: 0.19%
+('rivky',) ===> ('white non hispanic',)	 conf: 90.76% 	 supp: 0.12%
+('female', 'rivky') ===> ('white non hispanic',)	 conf: 90.76% 	 supp: 0.12%
+('angel',) ===> ('male',)	 conf: 90.6% 	 supp: 0.42%
+('angel',) ===> ('hispanic',)	 conf: 90.6% 	 supp: 0.42%
+('gitty',) ===> ('white non hispanic',)	 conf: 90.35% 	 supp: 0.16%
+('female', 'gitty') ===> ('white non hispanic',)	 conf: 90.35% 	 supp: 0.16%
+('abraham', 'male') ===> ('white non hispanic',)	 conf: 90.07% 	 supp: 0.3%
+('abraham',) ===> ('white non hispanic',)	 conf: 90.07% 	 supp: 0.3%
+('faigy',) ===> ('white non hispanic',)	 conf: 89.54% 	 supp: 0.15%
+('faigy', 'female') ===> ('white non hispanic',)	 conf: 89.54% 	 supp: 0.15%
+('female', 'malky') ===> ('white non hispanic',)	 conf: 89.53% 	 supp: 0.14%
+('malky',) ===> ('white non hispanic',)	 conf: 89.53% 	 supp: 0.14%
+('shimon',) ===> ('white non hispanic',)	 conf: 89.53% 	 supp: 0.2%
+('male', 'shimon') ===> ('white non hispanic',)	 conf: 89.53% 	 supp: 0.2%
+('chaya',) ===> ('white non hispanic',)	 conf: 89.49% 	 supp: 0.37%
+('chaya', 'female') ===> ('white non hispanic',)	 conf: 89.49% 	 supp: 0.37%
+('miriam',) ===> ('white non hispanic',)	 conf: 89.37% 	 supp: 0.32%
+('female', 'miriam') ===> ('white non hispanic',)	 conf: 89.37% 	 supp: 0.32%
+('avery',) ===> ('female',)	 conf: 89.34% 	 supp: 0.24%
+('yehuda',) ===> ('white non hispanic',)	 conf: 89.05% 	 supp: 0.17%
+('male', 'yehuda') ===> ('white non hispanic',)	 conf: 89.05% 	 supp: 0.17%
+('male', 'mordechai') ===> ('white non hispanic',)	 conf: 89.04% 	 supp: 0.18%
+('mordechai',) ===> ('white non hispanic',)	 conf: 89.04% 	 supp: 0.18%
+('moshe',) ===> ('white non hispanic',)	 conf: 88.98% 	 supp: 0.48%
+('male', 'moshe') ===> ('white non hispanic',)	 conf: 88.98% 	 supp: 0.48%
+('female', 'nora') ===> ('white non hispanic',)	 conf: 88.55% 	 supp: 0.1%
+('nora',) ===> ('white non hispanic',)	 conf: 88.55% 	 supp: 0.1%
+('male', 'mohammad') ===> ('asian and pacific islander',)	 conf: 88.38% 	 supp: 0.11%
+('mohammad',) ===> ('asian and pacific islander',)	 conf: 88.38% 	 supp: 0.11%
+('tenzin',) ===> ('asian and pacific islander',)	 conf: 88.25% 	 supp: 0.11%
+('male', 'yosef') ===> ('white non hispanic',)	 conf: 88.15% 	 supp: 0.22%
+('yosef',) ===> ('white non hispanic',)	 conf: 88.15% 	 supp: 0.22%
+('chana',) ===> ('white non hispanic',)	 conf: 87.99% 	 supp: 0.28%
+('chana', 'female') ===> ('white non hispanic',)	 conf: 87.99% 	 supp: 0.28%
+('male', 'yisroel') ===> ('white non hispanic',)	 conf: 87.76% 	 supp: 0.15%
+('yisroel',) ===> ('white non hispanic',)	 conf: 87.76% 	 supp: 0.15%
+('male', 'yitzchok') ===> ('white non hispanic',)	 conf: 87.57% 	 supp: 0.12%
+('yitzchok',) ===> ('white non hispanic',)	 conf: 87.57% 	 supp: 0.12%
+('chaim', 'male') ===> ('white non hispanic',)	 conf: 87.24% 	 supp: 0.29%
+('chaim',) ===> ('white non hispanic',)	 conf: 87.24% 	 supp: 0.29%
+('male', 'muhammad') ===> ('asian and pacific islander',)	 conf: 86.86% 	 supp: 0.27%
+('muhammad',) ===> ('asian and pacific islander',)	 conf: 86.86% 	 supp: 0.27%
+('esther', 'female') ===> ('white non hispanic',)	 conf: 86.81% 	 supp: 0.45%
+('esther',) ===> ('white non hispanic',)	 conf: 86.81% 	 supp: 0.45%
+('luca', 'male') ===> ('white non hispanic',)	 conf: 85.6% 	 supp: 0.18%
+('luca',) ===> ('white non hispanic',)	 conf: 85.6% 	 supp: 0.18%
+('allison',) ===> ('hispanic',)	 conf: 85.5% 	 supp: 0.19%
+('allison', 'female') ===> ('hispanic',)	 conf: 85.5% 	 supp: 0.19%
+('female', 'melanie') ===> ('hispanic',)	 conf: 84.56% 	 supp: 0.19%
+('melanie',) ===> ('hispanic',)	 conf: 84.56% 	 supp: 0.19%
+('female', 'lucy') ===> ('white non hispanic',)	 conf: 84.16% 	 supp: 0.11%
+('lucy',) ===> ('white non hispanic',)	 conf: 84.16% 	 supp: 0.11%
+('jack',) ===> ('white non hispanic',)	 conf: 83.58% 	 supp: 0.39%
+('jack', 'male') ===> ('white non hispanic',)	 conf: 83.58% 	 supp: 0.39%
+('genesis',) ===> ('hispanic',)	 conf: 83.4% 	 supp: 0.21%
+('female', 'genesis') ===> ('hispanic',)	 conf: 83.4% 	 supp: 0.21%
+('luna',) ===> ('hispanic',)	 conf: 82.87% 	 supp: 0.14%
+('female', 'luna') ===> ('hispanic',)	 conf: 82.87% 	 supp: 0.14%
+('valentina',) ===> ('hispanic',)	 conf: 82.85% 	 supp: 0.25%
+('female', 'valentina') ===> ('hispanic',)	 conf: 82.85% 	 supp: 0.25%
+('male', 'thomas') ===> ('white non hispanic',)	 conf: 82.36% 	 supp: 0.23%
+('thomas',) ===> ('white non hispanic',)	 conf: 82.36% 	 supp: 0.23%
+('adrian',) ===> ('hispanic',)	 conf: 81.09% 	 supp: 0.3%
+('adrian', 'male') ===> ('hispanic',)	 conf: 81.09% 	 supp: 0.3%
+('rachel',) ===> ('white non hispanic',)	 conf: 79.87% 	 supp: 0.38%
+('female', 'rachel') ===> ('white non hispanic',)	 conf: 79.87% 	 supp: 0.38%
+('eric',) ===> ('asian and pacific islander',)	 conf: 79.34% 	 supp: 0.14%
+('eric', 'male') ===> ('asian and pacific islander',)	 conf: 79.34% 	 supp: 0.14%
+('charles', 'male') ===> ('white non hispanic',)	 conf: 79.01% 	 supp: 0.27%
+('charles',) ===> ('white non hispanic',)	 conf: 79.01% 	 supp: 0.27%
+('eleanor', 'female') ===> ('white non hispanic',)	 conf: 78.71% 	 supp: 0.12%
+('eleanor',) ===> ('white non hispanic',)	 conf: 78.71% 	 supp: 0.12%
+('male', 'theodore') ===> ('white non hispanic',)	 conf: 77.82% 	 supp: 0.24%
+('theodore',) ===> ('white non hispanic',)	 conf: 77.82% 	 supp: 0.24%
+('sara',) ===> ('white non hispanic',)	 conf: 77.21% 	 supp: 0.26%
+('female', 'sara') ===> ('white non hispanic',)	 conf: 77.21% 	 supp: 0.26%
+('alexa', 'female') ===> ('hispanic',)	 conf: 77.08% 	 supp: 0.16%
+('alexa',) ===> ('hispanic',)	 conf: 77.08% 	 supp: 0.16%
+('brianna',) ===> ('hispanic',)	 conf: 76.64% 	 supp: 0.18%
+('brianna', 'female') ===> ('hispanic',)	 conf: 76.64% 	 supp: 0.18%
+('robert',) ===> ('white non hispanic',)	 conf: 76.51% 	 supp: 0.13%
+('male', 'robert') ===> ('white non hispanic',)	 conf: 76.51% 	 supp: 0.13%
+('jeremy', 'male') ===> ('hispanic',)	 conf: 76.23% 	 supp: 0.22%
+('jeremy',) ===> ('hispanic',)	 conf: 76.23% 	 supp: 0.22%
+('amy', 'female') ===> ('hispanic',)	 conf: 75.18% 	 supp: 0.15%
+('amy',) ===> ('hispanic',)	 conf: 75.18% 	 supp: 0.15%
+('eli', 'male') ===> ('white non hispanic',)	 conf: 74.81% 	 supp: 0.2%
+('eli',) ===> ('white non hispanic',)	 conf: 74.81% 	 supp: 0.2%
+('henry', 'male') ===> ('white non hispanic',)	 conf: 74.79% 	 supp: 0.36%
+('henry',) ===> ('white non hispanic',)	 conf: 74.79% 	 supp: 0.36%
+('asher', 'male') ===> ('white non hispanic',)	 conf: 74.13% 	 supp: 0.12%
+('asher',) ===> ('white non hispanic',)	 conf: 74.13% 	 supp: 0.12%
+('jordan',) ===> ('black non hispanic',)	 conf: 73.85% 	 supp: 0.1%
+('luke', 'male') ===> ('white non hispanic',)	 conf: 73.38% 	 supp: 0.19%
+('luke',) ===> ('white non hispanic',)	 conf: 73.38% 	 supp: 0.19%
+('ashley', 'female') ===> ('hispanic',)	 conf: 73.33% 	 supp: 0.28%
+('ashley',) ===> ('hispanic',)	 conf: 73.33% 	 supp: 0.28%
+('jackson',) ===> ('white non hispanic',)	 conf: 72.95% 	 supp: 0.16%
+('jackson', 'male') ===> ('white non hispanic',)	 conf: 72.95% 	 supp: 0.16%
+('male', 'max') ===> ('white non hispanic',)	 conf: 72.94% 	 supp: 0.21%
+('max',) ===> ('white non hispanic',)	 conf: 72.94% 	 supp: 0.21%
+('female', 'stella') ===> ('white non hispanic',)	 conf: 72.85% 	 supp: 0.15%
+('stella',) ===> ('white non hispanic',)	 conf: 72.85% 	 supp: 0.15%
+('female', 'lily') ===> ('white non hispanic',)	 conf: 72.84% 	 supp: 0.18%
+('lily',) ===> ('white non hispanic',)	 conf: 72.84% 	 supp: 0.18%
+('george',) ===> ('white non hispanic',)	 conf: 72.25% 	 supp: 0.11%
+('george', 'male') ===> ('white non hispanic',)	 conf: 72.25% 	 supp: 0.11%
+('female', 'julia') ===> ('white non hispanic',)	 conf: 70.3% 	 supp: 0.16%
+('julia',) ===> ('white non hispanic',)	 conf: 70.3% 	 supp: 0.16%
+('ian',) ===> ('hispanic',)	 conf: 69.91% 	 supp: 0.22%
+('ian', 'male') ===> ('hispanic',)	 conf: 69.91% 	 supp: 0.22%
+('adam',) ===> ('white non hispanic',)	 conf: 69.81% 	 supp: 0.32%
+('adam', 'male') ===> ('white non hispanic',)	 conf: 69.81% 	 supp: 0.32%
+('sebastian',) ===> ('hispanic',)	 conf: 69.51% 	 supp: 0.51%
+('male', 'sebastian') ===> ('hispanic',)	 conf: 69.51% 	 supp: 0.51%
+('alexandra', 'female') ===> ('white non hispanic',)	 conf: 69.48% 	 supp: 0.18%
+('alexandra',) ===> ('white non hispanic',)	 conf: 69.48% 	 supp: 0.18%
+('female', 'jade') ===> ('hispanic',)	 conf: 68.36% 	 supp: 0.1%
+('jade',) ===> ('hispanic',)	 conf: 68.36% 	 supp: 0.1%
+('anna', 'female') ===> ('white non hispanic',)	 conf: 67.4% 	 supp: 0.18%
+('anna',) ===> ('white non hispanic',)	 conf: 67.4% 	 supp: 0.18%
+('leo',) ===> ('white non hispanic',)	 conf: 66.21% 	 supp: 0.27%
+('leo', 'male') ===> ('white non hispanic',)	 conf: 66.21% 	 supp: 0.27%
+('evan', 'male') ===> ('asian and pacific islander',)	 conf: 66.13% 	 supp: 0.14%
+('evan',) ===> ('asian and pacific islander',)	 conf: 66.13% 	 supp: 0.14%
+('sophie',) ===> ('white non hispanic',)	 conf: 65.17% 	 supp: 0.14%
+('female', 'sophie') ===> ('white non hispanic',)	 conf: 65.17% 	 supp: 0.14%
+('isaiah',) ===> ('black non hispanic',)	 conf: 65.08% 	 supp: 0.15%
+('isaiah', 'male') ===> ('black non hispanic',)	 conf: 65.08% 	 supp: 0.15%
+('female', 'scarlett') ===> ('hispanic',)	 conf: 64.97% 	 supp: 0.18%
+('scarlett',) ===> ('hispanic',)	 conf: 64.97% 	 supp: 0.18%
+('ella', 'female') ===> ('white non hispanic',)	 conf: 64.36% 	 supp: 0.26%
+('ella',) ===> ('white non hispanic',)	 conf: 64.36% 	 supp: 0.26%
+('josiah',) ===> ('black non hispanic',)	 conf: 64.3% 	 supp: 0.22%
+('josiah', 'male') ===> ('black non hispanic',)	 conf: 64.3% 	 supp: 0.22%
+('tyler',) ===> ('black non hispanic',)	 conf: 63.64% 	 supp: 0.14%
+('male', 'tyler') ===> ('black non hispanic',)	 conf: 63.64% 	 supp: 0.14%
+('kayden', 'male') ===> ('black non hispanic',)	 conf: 63.49% 	 supp: 0.12%
+('kayden',) ===> ('black non hispanic',)	 conf: 63.49% 	 supp: 0.12%
+('ariana',) ===> ('hispanic',)	 conf: 63.33% 	 supp: 0.17%
+('ariana', 'female') ===> ('hispanic',)	 conf: 63.33% 	 supp: 0.17%
+('austin', 'male') ===> ('asian and pacific islander',)	 conf: 62.13% 	 supp: 0.11%
+('austin',) ===> ('asian and pacific islander',)	 conf: 62.13% 	 supp: 0.11%
+('charlotte', 'female') ===> ('white non hispanic',)	 conf: 61.74% 	 supp: 0.32%
+('charlotte',) ===> ('white non hispanic',)	 conf: 61.74% 	 supp: 0.32%
+('female', 'kaylee') ===> ('hispanic',)	 conf: 61.59% 	 supp: 0.16%
+('kaylee',) ===> ('hispanic',)	 conf: 61.59% 	 supp: 0.16%
+('female', 'hailey') ===> ('hispanic',)	 conf: 61.46% 	 supp: 0.19%
+('hailey',) ===> ('hispanic',)	 conf: 61.46% 	 supp: 0.19%
+('benjamin',) ===> ('white non hispanic',)	 conf: 61.02% 	 supp: 0.44%
+('benjamin', 'male') ===> ('white non hispanic',)	 conf: 61.02% 	 supp: 0.44%
+('arianna', 'female') ===> ('hispanic',)	 conf: 60.52% 	 supp: 0.15%
+('arianna',) ===> ('hispanic',)	 conf: 60.52% 	 supp: 0.15%
+('brandon',) ===> ('hispanic',)	 conf: 60.35% 	 supp: 0.22%
+('brandon', 'male') ===> ('hispanic',)	 conf: 60.35% 	 supp: 0.22%
+('john', 'male') ===> ('white non hispanic',)	 conf: 60.24% 	 supp: 0.32%
+('john',) ===> ('white non hispanic',)	 conf: 60.24% 	 supp: 0.32%
+('samantha',) ===> ('hispanic',)	 conf: 60.2% 	 supp: 0.21%
+('female', 'samantha') ===> ('hispanic',)	 conf: 60.2% 	 supp: 0.21%
+('2012', 'hispanic') ===> ('male',)	 conf: 60.04% 	 supp: 2.08%
+('2011', 'hispanic') ===> ('male',)	 conf: 59.92% 	 supp: 2.23%
+('2015', 'hispanic') ===> ('male',)	 conf: 59.3% 	 supp: 1.97%
+('zachary',) ===> ('white non hispanic',)	 conf: 59.23% 	 supp: 0.16%
+('male', 'zachary') ===> ('white non hispanic',)	 conf: 59.23% 	 supp: 0.16%
+('2013', 'hispanic') ===> ('male',)	 conf: 59.05% 	 supp: 1.98%
+('male', 'oliver') ===> ('white non hispanic',)	 conf: 58.97% 	 supp: 0.27%
+('oliver',) ===> ('white non hispanic',)	 conf: 58.97% 	 supp: 0.27%
+('xavier',) ===> ('hispanic',)	 conf: 58.44% 	 supp: 0.15%
+('male', 'xavier') ===> ('hispanic',)	 conf: 58.44% 	 supp: 0.15%
+('2016', 'hispanic') ===> ('male',)	 conf: 58.33% 	 supp: 1.93%
+('2018', 'black non hispanic') ===> ('male',)	 conf: 58.17% 	 supp: 1.17%
+('female', 'isabella') ===> ('hispanic',)	 conf: 58.01% 	 supp: 0.66%
+('isabella',) ===> ('hispanic',)	 conf: 58.01% 	 supp: 0.66%
+('hispanic',) ===> ('male',)	 conf: 57.82% 	 supp: 17.35%
+('2014', 'hispanic') ===> ('male',)	 conf: 57.26% 	 supp: 1.98%
+('2019', 'liam') ===> ('hispanic',)	 conf: 56.93% 	 supp: 0.11%
+('2019', 'liam', 'male') ===> ('hispanic',)	 conf: 56.93% 	 supp: 0.11%
+('2019', 'black non hispanic') ===> ('male',)	 conf: 56.92% 	 supp: 1.07%
+('2018', 'asian and pacific islander') ===> ('male',)	 conf: 56.75% 	 supp: 1.12%
+('kevin', 'male') ===> ('hispanic',)	 conf: 56.72% 	 supp: 0.24%
+('kevin',) ===> ('hispanic',)	 conf: 56.72% 	 supp: 0.24%
+('dylan', 'male') ===> ('hispanic',)	 conf: 56.57% 	 supp: 0.57%
+('sarah',) ===> ('white non hispanic',)	 conf: 56.44% 	 supp: 0.39%
+('female', 'sarah') ===> ('white non hispanic',)	 conf: 56.44% 	 supp: 0.39%
+('dylan',) ===> ('hispanic',)	 conf: 56.42% 	 supp: 0.57%
+('2011', 'white non hispanic') ===> ('male',)	 conf: 56.39% 	 supp: 1.89%
+('2017', 'liam', 'male') ===> ('hispanic',)	 conf: 56.37% 	 supp: 0.1%
+('2017', 'liam') ===> ('hispanic',)	 conf: 56.37% 	 supp: 0.1%
+('female', 'nicole') ===> ('hispanic',)	 conf: 56.32% 	 supp: 0.11%
+('nicole',) ===> ('hispanic',)	 conf: 56.32% 	 supp: 0.11%
+('2017', 'hispanic') ===> ('male',)	 conf: 56.13% 	 supp: 1.88%
+('2011',) ===> ('male',)	 conf: 55.94% 	 supp: 6.23%
+('2019', 'asian and pacific islander') ===> ('male',)	 conf: 55.6% 	 supp: 1.05%
+('2015', 'white non hispanic') ===> ('male',)	 conf: 55.55% 	 supp: 2.05%
+('2017', 'black non hispanic') ===> ('male',)	 conf: 55.54% 	 supp: 1.13%
+('2014', 'white non hispanic') ===> ('male',)	 conf: 55.52% 	 supp: 1.99%
+('2018',) ===> ('male',)	 conf: 55.49% 	 supp: 5.86%
+('2012',) ===> ('male',)	 conf: 55.49% 	 supp: 6.52%
+('2017',) ===> ('male',)	 conf: 55.17% 	 supp: 6.17%
+('2012', 'asian and pacific islander') ===> ('male',)	 conf: 55.14% 	 supp: 2.09%
+('2019', 'hispanic') ===> ('male',)	 conf: 55.01% 	 supp: 1.63%
+('2019',) ===> ('male',)	 conf: 54.94% 	 supp: 5.63%
+('2015',) ===> ('male',)	 conf: 54.92% 	 supp: 6.18%
+('2017', 'white non hispanic') ===> ('male',)	 conf: 54.81% 	 supp: 2.04%
+('jeremiah', 'male') ===> ('black non hispanic',)	 conf: 54.74% 	 supp: 0.25%
+('jeremiah',) ===> ('black non hispanic',)	 conf: 54.74% 	 supp: 0.25%
+('2014',) ===> ('male',)	 conf: 54.7% 	 supp: 6.26%
+('2013',) ===> ('male',)	 conf: 54.6% 	 supp: 6.14%
+('alice', 'female') ===> ('white non hispanic',)	 conf: 54.6% 	 supp: 0.11%
+('alice',) ===> ('white non hispanic',)	 conf: 54.6% 	 supp: 0.11%
+('joseph', 'male') ===> ('white non hispanic',)	 conf: 54.55% 	 supp: 0.55%
+('joseph',) ===> ('white non hispanic',)	 conf: 54.55% 	 supp: 0.55%
+('2018', 'hispanic') ===> ('male',)	 conf: 54.43% 	 supp: 1.68%
+('white non hispanic',) ===> ('male',)	 conf: 54.43% 	 supp: 16.78%
+('2011', 'jayden') ===> ('hispanic',)	 conf: 54.41% 	 supp: 0.11%
+('2011', 'jayden', 'male') ===> ('hispanic',)	 conf: 54.41% 	 supp: 0.11%
+('male', 'william') ===> ('white non hispanic',)	 conf: 54.34% 	 supp: 0.36%
+('william',) ===> ('white non hispanic',)	 conf: 54.34% 	 supp: 0.36%
+('2011', 'asian and pacific islander') ===> ('male',)	 conf: 54.24% 	 supp: 1.01%
+('sofia',) ===> ('hispanic',)	 conf: 54.22% 	 supp: 0.37%
+('female', 'sofia') ===> ('hispanic',)	 conf: 54.22% 	 supp: 0.37%
+('2016',) ===> ('male',)	 conf: 54.17% 	 supp: 6.05%
+('2018', 'white non hispanic') ===> ('male',)	 conf: 54.17% 	 supp: 1.89%
+('justin',) ===> ('hispanic',)	 conf: 54.08% 	 supp: 0.31%
+('justin', 'male') ===> ('hispanic',)	 conf: 54.08% 	 supp: 0.31%
+('asian and pacific islander',) ===> ('male',)	 conf: 53.97% 	 supp: 10.99%
+('2017', 'asian and pacific islander') ===> ('male',)	 conf: 53.93% 	 supp: 1.13%
+('christopher',) ===> ('hispanic',)	 conf: 53.9% 	 supp: 0.34%
+('christopher', 'male') ===> ('hispanic',)	 conf: 53.9% 	 supp: 0.34%
+('male', 'owen') ===> ('white non hispanic',)	 conf: 53.88% 	 supp: 0.12%
+('owen',) ===> ('white non hispanic',)	 conf: 53.88% 	 supp: 0.12%
+('2013', 'white non hispanic') ===> ('male',)	 conf: 53.84% 	 supp: 1.94%
+('2019', 'white non hispanic') ===> ('male',)	 conf: 53.44% 	 supp: 1.87%
+('2016', 'white non hispanic') ===> ('male',)	 conf: 53.08% 	 supp: 1.91%
+('bella',) ===> ('hispanic',)	 conf: 53.07% 	 supp: 0.13%
+('bella', 'female') ===> ('hispanic',)	 conf: 53.07% 	 supp: 0.13%
+('2015', 'asian and pacific islander') ===> ('male',)	 conf: 53.03% 	 supp: 1.18%
+('black non hispanic',) ===> ('male',)	 conf: 52.81% 	 supp: 9.93%
+('2013', 'asian and pacific islander') ===> ('male',)	 conf: 52.69% 	 supp: 1.12%
+('2014', 'asian and pacific islander') ===> ('male',)	 conf: 52.47% 	 supp: 1.16%
+('male', 'matthew') ===> ('hispanic',)	 conf: 52.46% 	 supp: 0.61%
+('matthew',) ===> ('hispanic',)	 conf: 52.46% 	 supp: 0.61%
+('james', 'male') ===> ('white non hispanic',)	 conf: 52.36% 	 supp: 0.42%
+('james',) ===> ('white non hispanic',)	 conf: 52.36% 	 supp: 0.42%
+('2012', 'white non hispanic') ===> ('male',)	 conf: 52.32% 	 supp: 1.19%
+('2016', 'black non hispanic') ===> ('male',)	 conf: 52.26% 	 supp: 1.08%
+('2012', 'black non hispanic') ===> ('male',)	 conf: 52.21% 	 supp: 1.16%
+('2014', 'black non hispanic') ===> ('male',)	 conf: 51.57% 	 supp: 1.13%
+('male', 'samuel') ===> ('white non hispanic',)	 conf: 51.51% 	 supp: 0.36%
+('samuel',) ===> ('white non hispanic',)	 conf: 51.51% 	 supp: 0.36%
+('2016', 'asian and pacific islander') ===> ('male',)	 conf: 51.51% 	 supp: 1.13%
+('2015', 'black non hispanic') ===> ('female',)	 conf: 51.39% 	 supp: 1.03%
+('elijah',) ===> ('black non hispanic',)	 conf: 51.39% 	 supp: 0.25%
+('elijah', 'male') ===> ('black non hispanic',)	 conf: 51.39% 	 supp: 0.25%
+('ayden',) ===> ('hispanic',)	 conf: 51.22% 	 supp: 0.16%
+('ayden', 'male') ===> ('hispanic',)	 conf: 51.22% 	 supp: 0.16%
+('jayden',) ===> ('hispanic',)	 conf: 51.07% 	 supp: 0.63%
+('jayden', 'male') ===> ('hispanic',)	 conf: 51.07% 	 supp: 0.63%
+('2013', 'black non hispanic') ===> ('male',)	 conf: 50.88% 	 supp: 1.11%
+('2011', 'black non hispanic') ===> ('male',)	 conf: 50.01% 	 supp: 1.1%

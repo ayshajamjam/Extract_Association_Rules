@@ -1,0 +1,215 @@
+==Frequent itemsets (min_sup=1.0%)==
+('hispanic', 'male')	 supp: 17.35%
+('male', 'white non hispanic')	 supp: 16.78%
+('female', 'white non hispanic')	 supp: 14.05%
+('female', 'hispanic')	 supp: 12.66%
+('asian and pacific islander', 'male')	 supp: 10.99%
+('black non hispanic', 'male')	 supp: 9.93%
+('asian and pacific islander', 'female')	 supp: 9.37%
+('black non hispanic', 'female')	 supp: 8.87%
+('2012', 'male')	 supp: 6.52%
+('2014', 'male')	 supp: 6.26%
+('2011', 'male')	 supp: 6.23%
+('2015', 'male')	 supp: 6.18%
+('2017', 'male')	 supp: 6.17%
+('2013', 'male')	 supp: 6.14%
+('2016', 'male')	 supp: 6.05%
+('2018', 'male')	 supp: 5.86%
+('2019', 'male')	 supp: 5.63%
+('2012', 'female')	 supp: 5.23%
+('2014', 'female')	 supp: 5.19%
+('2016', 'female')	 supp: 5.12%
+('2013', 'female')	 supp: 5.11%
+('2015', 'female')	 supp: 5.07%
+('2017', 'female')	 supp: 5.02%
+('2011', 'female')	 supp: 4.91%
+('2018', 'female')	 supp: 4.7%
+('2019', 'female')	 supp: 4.62%
+('2012', 'asian and pacific islander')	 supp: 3.79%
+('2017', 'white non hispanic')	 supp: 3.72%
+('2011', 'hispanic')	 supp: 3.72%
+('2015', 'white non hispanic')	 supp: 3.69%
+('2016', 'white non hispanic')	 supp: 3.6%
+('2013', 'white non hispanic')	 supp: 3.6%
+('2014', 'white non hispanic')	 supp: 3.59%
+('2019', 'white non hispanic')	 supp: 3.5%
+('2018', 'white non hispanic')	 supp: 3.5%
+('2012', 'hispanic')	 supp: 3.47%
+('2014', 'hispanic')	 supp: 3.46%
+('2017', 'hispanic')	 supp: 3.35%
+('2013', 'hispanic')	 supp: 3.35%
+('2011', 'white non hispanic')	 supp: 3.35%
+('2015', 'hispanic')	 supp: 3.33%
+('2016', 'hispanic')	 supp: 3.3%
+('2018', 'hispanic')	 supp: 3.08%
+('2019', 'hispanic')	 supp: 2.96%
+('2012', 'white non hispanic')	 supp: 2.27%
+('2011', 'hispanic', 'male')	 supp: 2.23%
+('2015', 'asian and pacific islander')	 supp: 2.22%
+('2012', 'black non hispanic')	 supp: 2.22%
+('2014', 'asian and pacific islander')	 supp: 2.21%
+('2011', 'black non hispanic')	 supp: 2.2%
+('2014', 'black non hispanic')	 supp: 2.2%
+('2016', 'asian and pacific islander')	 supp: 2.2%
+('2013', 'black non hispanic')	 supp: 2.18%
+('2013', 'asian and pacific islander')	 supp: 2.12%
+('2017', 'asian and pacific islander')	 supp: 2.09%
+('2012', 'asian and pacific islander', 'male')	 supp: 2.09%
+('2012', 'hispanic', 'male')	 supp: 2.08%
+('2016', 'black non hispanic')	 supp: 2.07%
+('2015', 'male', 'white non hispanic')	 supp: 2.05%
+('2017', 'male', 'white non hispanic')	 supp: 2.04%
+('2017', 'black non hispanic')	 supp: 2.03%
+('2018', 'black non hispanic')	 supp: 2.02%
+('2015', 'black non hispanic')	 supp: 2.01%
+('2014', 'male', 'white non hispanic')	 supp: 1.99%
+('2014', 'hispanic', 'male')	 supp: 1.98%
+('2013', 'hispanic', 'male')	 supp: 1.98%
+('2018', 'asian and pacific islander')	 supp: 1.97%
+('2015', 'hispanic', 'male')	 supp: 1.97%
+('2013', 'male', 'white non hispanic')	 supp: 1.94%
+('2016', 'hispanic', 'male')	 supp: 1.93%
+('2016', 'male', 'white non hispanic')	 supp: 1.91%
+('2019', 'asian and pacific islander')	 supp: 1.9%
+('2018', 'male', 'white non hispanic')	 supp: 1.89%
+('2011', 'male', 'white non hispanic')	 supp: 1.89%
+('2019', 'black non hispanic')	 supp: 1.88%
+('2017', 'hispanic', 'male')	 supp: 1.88%
+('2019', 'male', 'white non hispanic')	 supp: 1.87%
+('2011', 'asian and pacific islander')	 supp: 1.87%
+('2012', 'asian and pacific islander', 'female')	 supp: 1.7%
+('2016', 'female', 'white non hispanic')	 supp: 1.69%
+('2017', 'female', 'white non hispanic')	 supp: 1.68%
+('2018', 'hispanic', 'male')	 supp: 1.68%
+('2013', 'female', 'white non hispanic')	 supp: 1.66%
+('2015', 'female', 'white non hispanic')	 supp: 1.64%
+('2019', 'female', 'white non hispanic')	 supp: 1.63%
+('2019', 'hispanic', 'male')	 supp: 1.63%
+('2018', 'female', 'white non hispanic')	 supp: 1.6%
+('2014', 'female', 'white non hispanic')	 supp: 1.6%
+('2011', 'female', 'hispanic')	 supp: 1.49%
+('2014', 'female', 'hispanic')	 supp: 1.48%
+('2017', 'female', 'hispanic')	 supp: 1.47%
+('ethan', 'male')	 supp: 1.47%
+('2011', 'female', 'white non hispanic')	 supp: 1.46%
+('jacob', 'male')	 supp: 1.41%
+('2018', 'female', 'hispanic')	 supp: 1.4%
+('2012', 'female', 'hispanic')	 supp: 1.39%
+('2016', 'female', 'hispanic')	 supp: 1.38%
+('2013', 'female', 'hispanic')	 supp: 1.37%
+('liam', 'male')	 supp: 1.36%
+('2015', 'female', 'hispanic')	 supp: 1.35%
+('2019', 'female', 'hispanic')	 supp: 1.33%
+('male', 'noah')	 supp: 1.29%
+('jayden', 'male')	 supp: 1.24%
+('female', 'sophia')	 supp: 1.2%
+('2012', 'male', 'white non hispanic')	 supp: 1.19%
+('daniel', 'male')	 supp: 1.19%
+('2015', 'asian and pacific islander', 'male')	 supp: 1.18%
+('2018', 'black non hispanic', 'male')	 supp: 1.17%
+('male', 'matthew')	 supp: 1.16%
+('2014', 'asian and pacific islander', 'male')	 supp: 1.16%
+('2012', 'black non hispanic', 'male')	 supp: 1.16%
+('david', 'male')	 supp: 1.15%
+('female', 'isabella')	 supp: 1.15%
+('2014', 'black non hispanic', 'male')	 supp: 1.13%
+('2016', 'asian and pacific islander', 'male')	 supp: 1.13%
+('male', 'michael')	 supp: 1.13%
+('2017', 'asian and pacific islander', 'male')	 supp: 1.13%
+('2017', 'black non hispanic', 'male')	 supp: 1.13%
+('female', 'olivia')	 supp: 1.12%
+('2018', 'asian and pacific islander', 'male')	 supp: 1.12%
+('emma', 'female')	 supp: 1.12%
+('2013', 'asian and pacific islander', 'male')	 supp: 1.12%
+('aiden', 'male')	 supp: 1.11%
+('2013', 'black non hispanic', 'male')	 supp: 1.11%
+('2011', 'black non hispanic', 'male')	 supp: 1.1%
+('2011', 'black non hispanic', 'female')	 supp: 1.1%
+('2012', 'female', 'white non hispanic')	 supp: 1.08%
+('2016', 'black non hispanic', 'male')	 supp: 1.08%
+('2019', 'black non hispanic', 'male')	 supp: 1.07%
+('2013', 'black non hispanic', 'female')	 supp: 1.07%
+('2016', 'asian and pacific islander', 'female')	 supp: 1.06%
+('2014', 'black non hispanic', 'female')	 supp: 1.06%
+('2012', 'black non hispanic', 'female')	 supp: 1.06%
+('alexander', 'male')	 supp: 1.06%
+('2019', 'asian and pacific islander', 'male')	 supp: 1.05%
+('2014', 'asian and pacific islander', 'female')	 supp: 1.05%
+('female', 'mia')	 supp: 1.05%
+('2015', 'asian and pacific islander', 'female')	 supp: 1.04%
+('2015', 'black non hispanic', 'female')	 supp: 1.03%
+('2011', 'asian and pacific islander', 'male')	 supp: 1.01%
+('dylan', 'male')	 supp: 1.01%
+('joseph', 'male')	 supp: 1.0%
+('2013', 'asian and pacific islander', 'female')	 supp: 1.0%
+
+
+
+==High-confidence association rules (min_conf=50.0%)==
+('noah',) ===> ('male',)	 conf: 100.0% 	 supp: 1.29%
+('liam',) ===> ('male',)	 conf: 100.0% 	 supp: 1.36%
+('david',) ===> ('male',)	 conf: 100.0% 	 supp: 1.15%
+('jacob',) ===> ('male',)	 conf: 100.0% 	 supp: 1.41%
+('aiden',) ===> ('male',)	 conf: 100.0% 	 supp: 1.11%
+('ethan',) ===> ('male',)	 conf: 100.0% 	 supp: 1.47%
+('isabella',) ===> ('female',)	 conf: 100.0% 	 supp: 1.15%
+('daniel',) ===> ('male',)	 conf: 100.0% 	 supp: 1.19%
+('mia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.05%
+('michael',) ===> ('male',)	 conf: 100.0% 	 supp: 1.13%
+('emma',) ===> ('female',)	 conf: 100.0% 	 supp: 1.12%
+('joseph',) ===> ('male',)	 conf: 100.0% 	 supp: 1.0%
+('alexander',) ===> ('male',)	 conf: 100.0% 	 supp: 1.06%
+('olivia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.12%
+('matthew',) ===> ('male',)	 conf: 100.0% 	 supp: 1.16%
+('sophia',) ===> ('female',)	 conf: 100.0% 	 supp: 1.2%
+('jayden',) ===> ('male',)	 conf: 100.0% 	 supp: 1.24%
+('dylan',) ===> ('male',)	 conf: 99.73% 	 supp: 1.01%
+('2012', 'hispanic') ===> ('male',)	 conf: 60.04% 	 supp: 2.08%
+('2011', 'hispanic') ===> ('male',)	 conf: 59.92% 	 supp: 2.23%
+('2015', 'hispanic') ===> ('male',)	 conf: 59.3% 	 supp: 1.97%
+('2013', 'hispanic') ===> ('male',)	 conf: 59.05% 	 supp: 1.98%
+('2016', 'hispanic') ===> ('male',)	 conf: 58.33% 	 supp: 1.93%
+('2018', 'black non hispanic') ===> ('male',)	 conf: 58.17% 	 supp: 1.17%
+('hispanic',) ===> ('male',)	 conf: 57.82% 	 supp: 17.35%
+('2014', 'hispanic') ===> ('male',)	 conf: 57.26% 	 supp: 1.98%
+('2019', 'black non hispanic') ===> ('male',)	 conf: 56.92% 	 supp: 1.07%
+('2018', 'asian and pacific islander') ===> ('male',)	 conf: 56.75% 	 supp: 1.12%
+('2011', 'white non hispanic') ===> ('male',)	 conf: 56.39% 	 supp: 1.89%
+('2017', 'hispanic') ===> ('male',)	 conf: 56.13% 	 supp: 1.88%
+('2011',) ===> ('male',)	 conf: 55.94% 	 supp: 6.23%
+('2019', 'asian and pacific islander') ===> ('male',)	 conf: 55.6% 	 supp: 1.05%
+('2015', 'white non hispanic') ===> ('male',)	 conf: 55.55% 	 supp: 2.05%
+('2017', 'black non hispanic') ===> ('male',)	 conf: 55.54% 	 supp: 1.13%
+('2014', 'white non hispanic') ===> ('male',)	 conf: 55.52% 	 supp: 1.99%
+('2018',) ===> ('male',)	 conf: 55.49% 	 supp: 5.86%
+('2012',) ===> ('male',)	 conf: 55.49% 	 supp: 6.52%
+('2017',) ===> ('male',)	 conf: 55.17% 	 supp: 6.17%
+('2012', 'asian and pacific islander') ===> ('male',)	 conf: 55.14% 	 supp: 2.09%
+('2019', 'hispanic') ===> ('male',)	 conf: 55.01% 	 supp: 1.63%
+('2019',) ===> ('male',)	 conf: 54.94% 	 supp: 5.63%
+('2015',) ===> ('male',)	 conf: 54.92% 	 supp: 6.18%
+('2017', 'white non hispanic') ===> ('male',)	 conf: 54.81% 	 supp: 2.04%
+('2014',) ===> ('male',)	 conf: 54.7% 	 supp: 6.26%
+('2013',) ===> ('male',)	 conf: 54.6% 	 supp: 6.14%
+('2018', 'hispanic') ===> ('male',)	 conf: 54.43% 	 supp: 1.68%
+('white non hispanic',) ===> ('male',)	 conf: 54.43% 	 supp: 16.78%
+('2011', 'asian and pacific islander') ===> ('male',)	 conf: 54.24% 	 supp: 1.01%
+('2016',) ===> ('male',)	 conf: 54.17% 	 supp: 6.05%
+('2018', 'white non hispanic') ===> ('male',)	 conf: 54.17% 	 supp: 1.89%
+('asian and pacific islander',) ===> ('male',)	 conf: 53.97% 	 supp: 10.99%
+('2017', 'asian and pacific islander') ===> ('male',)	 conf: 53.93% 	 supp: 1.13%
+('2013', 'white non hispanic') ===> ('male',)	 conf: 53.84% 	 supp: 1.94%
+('2019', 'white non hispanic') ===> ('male',)	 conf: 53.44% 	 supp: 1.87%
+('2016', 'white non hispanic') ===> ('male',)	 conf: 53.08% 	 supp: 1.91%
+('2015', 'asian and pacific islander') ===> ('male',)	 conf: 53.03% 	 supp: 1.18%
+('black non hispanic',) ===> ('male',)	 conf: 52.81% 	 supp: 9.93%
+('2013', 'asian and pacific islander') ===> ('male',)	 conf: 52.69% 	 supp: 1.12%
+('2014', 'asian and pacific islander') ===> ('male',)	 conf: 52.47% 	 supp: 1.16%
+('2012', 'white non hispanic') ===> ('male',)	 conf: 52.32% 	 supp: 1.19%
+('2016', 'black non hispanic') ===> ('male',)	 conf: 52.26% 	 supp: 1.08%
+('2012', 'black non hispanic') ===> ('male',)	 conf: 52.21% 	 supp: 1.16%
+('2014', 'black non hispanic') ===> ('male',)	 conf: 51.57% 	 supp: 1.13%
+('2016', 'asian and pacific islander') ===> ('male',)	 conf: 51.51% 	 supp: 1.13%
+('2015', 'black non hispanic') ===> ('female',)	 conf: 51.39% 	 supp: 1.03%
+('2013', 'black non hispanic') ===> ('male',)	 conf: 50.88% 	 supp: 1.11%
+('2011', 'black non hispanic') ===> ('male',)	 conf: 50.01% 	 supp: 1.1%
